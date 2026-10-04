@@ -1,0 +1,28 @@
+name: tjalve-dev
+
+services:
+    api:
+        build: ./apps/api
+        restart: unless-stopped
+        ports:
+            - 4100:4000
+        volumes:
+            - ./apps/api:/app
+            - /app/node_modules
+        command: sh -c "npm install && npm run dev"
+        environment:
+            - SECRET=${SECRET:-dev-secret}
+            - DATABASE_URL=mongodb://mongo:27017/tjalve-dev
+            - PORT=4000
+        depends_on:
+            - mongo
+
+    mongo:
+        image: mongo
+        ports:
+            - 27021:27017
+        volumes:
+            - mongodb:/data/db
+
+volumes:
+    mongodb:

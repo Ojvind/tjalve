@@ -1,0 +1,2489 @@
+{
+  "slug": "salen-mora-2027",
+  "title": "Sälen–Mora 2027",
+  "goal": "Öppet Spår måndag 90, skate",
+  "raceDate": "2027-03-01",
+  "startDate": "2026-10-04",
+  "phases": [
+    {
+      "n": 1,
+      "name": "Rehab-säker grund",
+      "dateRange": "4–25 okt",
+      "description": "Lugn kondition, inga tunga lyft, inga rullskidor."
+    },
+    {
+      "n": 2,
+      "name": "Återintroduktion",
+      "dateRange": "26 okt–15 nov",
+      "description": "Rullskidor och styrka A kommer in, försiktigt."
+    },
+    {
+      "n": 3,
+      "name": "Basbygge på rullskidor",
+      "dateRange": "16 nov–13 dec",
+      "description": "Intervaller, längre långpass och styrka B."
+    },
+    {
+      "n": 4,
+      "name": "Snö och volym",
+      "dateRange": "14 dec–7 feb",
+      "description": "Skidor när det finns snö, långpassen växer mot 4 timmar."
+    },
+    {
+      "n": 5,
+      "name": "Loppspecifikt och nedtrappning",
+      "dateRange": "8 feb–1 mar",
+      "description": "Genrep, sedan mindre volym och kvar med fart."
+    }
+  ],
+  "restLabel": "Vila och Tai Chi",
+  "emergency": "Varningssignaler under hela perioden: smärta i ljumsken, en ny utbuktning eller tryckkänsla. Backa då och kontakta kliniken eller 1177. Planen är en allmän vägledning och ersätter inte råd från din kirurg.",
+  "sessions": [
+    {
+      "id": "2026-10-04",
+      "date": "2026-10-04",
+      "sport": "running",
+      "title": "Lugn löpning",
+      "durationMin": 45,
+      "intensity": "Lugnt, zon 2",
+      "phase": 1,
+      "steps": [
+        "5–10 min rask gång eller mycket lätt jogg.",
+        "Spring cirka 35 min i ett tempo där du kan prata i hela meningar.",
+        "Avsluta med 5 min gång och lite rörlighet för höfter och vader."
+      ],
+      "purpose": "Bygger den aeroba grunden som ska bära dig hela vägen till Mora.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-06",
+      "date": "2026-10-06",
+      "sport": "running",
+      "title": "Lugn löpning",
+      "durationMin": 45,
+      "intensity": "Lugnt, zon 2",
+      "phase": 1,
+      "steps": [
+        "5–10 min rask gång eller mycket lätt jogg.",
+        "Spring cirka 35 min i ett tempo där du kan prata i hela meningar.",
+        "Avsluta med 5 min gång och lite rörlighet för höfter och vader."
+      ],
+      "purpose": "Bygger den aeroba grunden som ska bära dig hela vägen till Mora.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-07",
+      "date": "2026-10-07",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 1,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-08",
+      "date": "2026-10-08",
+      "sport": "running",
+      "title": "Löpning med fartökningar",
+      "durationMin": 40,
+      "intensity": "Lugnt + korta stegringar",
+      "phase": 1,
+      "steps": [
+        "15 min lugn löpning som uppvärmning.",
+        "6 × 20 sek fartökning upp mot ungefär 85 % av maxfart. Jogga lugnt 1–2 min mellan varje.",
+        "Spring resten lugnt, totalt cirka 40 min."
+      ],
+      "purpose": "Håller igång benens snabbhet och ett effektivt steg utan att det tär.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-10",
+      "date": "2026-10-10",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 1,
+      "steps": [
+        "Starta lugnare än du tror, de första 15 minuterna ska kännas nästan för lätta.",
+        "Spring 1 h 15 min i jämn, lugn fart.",
+        "Drick regelbundet och ta med något att äta om passet blir längre än 75 min."
+      ],
+      "purpose": "Ökar uthålligheten, grunden för ett 90-kilometerslopp.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-11",
+      "date": "2026-10-11",
+      "sport": "running",
+      "title": "Lugn löpning",
+      "durationMin": 45,
+      "intensity": "Lugnt, zon 2",
+      "phase": 1,
+      "steps": [
+        "5–10 min rask gång eller mycket lätt jogg.",
+        "Spring cirka 35 min i ett tempo där du kan prata i hela meningar.",
+        "Avsluta med 5 min gång och lite rörlighet för höfter och vader."
+      ],
+      "purpose": "Bygger den aeroba grunden som ska bära dig hela vägen till Mora.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-13",
+      "date": "2026-10-13",
+      "sport": "running",
+      "title": "Lugn löpning",
+      "durationMin": 50,
+      "intensity": "Lugnt, zon 2",
+      "phase": 1,
+      "steps": [
+        "5–10 min rask gång eller mycket lätt jogg.",
+        "Spring cirka 40 min i ett tempo där du kan prata i hela meningar.",
+        "Avsluta med 5 min gång och lite rörlighet för höfter och vader."
+      ],
+      "purpose": "Bygger den aeroba grunden som ska bära dig hela vägen till Mora.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-14",
+      "date": "2026-10-14",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 1,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-15",
+      "date": "2026-10-15",
+      "sport": "running",
+      "title": "Löpning med fartökningar",
+      "durationMin": 45,
+      "intensity": "Lugnt + korta stegringar",
+      "phase": 1,
+      "steps": [
+        "15 min lugn löpning som uppvärmning.",
+        "8 × 20 sek fartökning upp mot ungefär 85 % av maxfart. Jogga lugnt 1–2 min mellan varje.",
+        "Spring resten lugnt, totalt cirka 45 min."
+      ],
+      "purpose": "Håller igång benens snabbhet och ett effektivt steg utan att det tär.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-17",
+      "date": "2026-10-17",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 90,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 1,
+      "steps": [
+        "Starta lugnare än du tror, de första 15 minuterna ska kännas nästan för lätta.",
+        "Spring 1 h 30 min i jämn, lugn fart.",
+        "Drick regelbundet och ta med något att äta om passet blir längre än 75 min."
+      ],
+      "purpose": "Ökar uthålligheten, grunden för ett 90-kilometerslopp.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-18",
+      "date": "2026-10-18",
+      "sport": "running",
+      "title": "Lugn löpning",
+      "durationMin": 50,
+      "intensity": "Lugnt, zon 2",
+      "phase": 1,
+      "steps": [
+        "5–10 min rask gång eller mycket lätt jogg.",
+        "Spring cirka 40 min i ett tempo där du kan prata i hela meningar.",
+        "Avsluta med 5 min gång och lite rörlighet för höfter och vader."
+      ],
+      "purpose": "Bygger den aeroba grunden som ska bära dig hela vägen till Mora.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-20",
+      "date": "2026-10-20",
+      "sport": "running",
+      "title": "Lugn löpning",
+      "durationMin": 50,
+      "intensity": "Lugnt, zon 2",
+      "phase": 1,
+      "steps": [
+        "5–10 min rask gång eller mycket lätt jogg.",
+        "Spring cirka 40 min i ett tempo där du kan prata i hela meningar.",
+        "Avsluta med 5 min gång och lite rörlighet för höfter och vader."
+      ],
+      "purpose": "Bygger den aeroba grunden som ska bära dig hela vägen till Mora.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-21",
+      "date": "2026-10-21",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 1,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-22",
+      "date": "2026-10-22",
+      "sport": "running",
+      "title": "Löpning med fartökningar",
+      "durationMin": 45,
+      "intensity": "Lugnt + korta stegringar",
+      "phase": 1,
+      "steps": [
+        "15 min lugn löpning som uppvärmning.",
+        "8 × 20 sek fartökning upp mot ungefär 85 % av maxfart. Jogga lugnt 1–2 min mellan varje.",
+        "Spring resten lugnt, totalt cirka 45 min."
+      ],
+      "purpose": "Håller igång benens snabbhet och ett effektivt steg utan att det tär.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-24",
+      "date": "2026-10-24",
+      "sport": "cycling",
+      "title": "Långpass cykel",
+      "durationMin": 90,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 1,
+      "steps": [
+        "Starta lugnare än du tror, de första 15 minuterna ska kännas nästan för lätta.",
+        "Cykla 1 h 30 min i jämn, lugn fart.",
+        "Drick regelbundet och ta med något att äta om passet blir längre än 75 min."
+      ],
+      "purpose": "Ökar uthålligheten, grunden för ett 90-kilometerslopp. Skonar benen lite extra inför veckans övriga pass.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-25",
+      "date": "2026-10-25",
+      "sport": "running",
+      "title": "Lugn löpning",
+      "durationMin": 45,
+      "intensity": "Lugnt, zon 2",
+      "phase": 1,
+      "steps": [
+        "5–10 min rask gång eller mycket lätt jogg.",
+        "Spring cirka 35 min i ett tempo där du kan prata i hela meningar.",
+        "Avsluta med 5 min gång och lite rörlighet för höfter och vader."
+      ],
+      "purpose": "Bygger den aeroba grunden som ska bära dig hela vägen till Mora.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-27",
+      "date": "2026-10-27",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 30,
+      "intensity": "Lugnt, zon 2",
+      "phase": 2,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 30 min.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": {
+        "title": "Styrka A – försiktig start",
+        "durationMin": 23,
+        "items": [
+          "Dead bug 2 × 8 per sida. Andas ut när benet sträcks, ländryggen kvar mot golvet.",
+          "Höftlyft (glute bridge) 2 × 12.",
+          "Clamshells 2 × 15 per sida.",
+          "Sidoliggande benlyft med övre benet 2 × 12 per sida.",
+          "Sidoliggande benlyft med undre benet (insida lår) 2 × 10 per sida, lätt och kontrollerat.",
+          "Sidoplanka på knä 2 × 20 sek per sida.",
+          "Knäböj med kroppsvikt 2 × 12.",
+          "Enbensbalans 3 × 30 sek per ben, gärna sista varvet med slutna ögon."
+        ],
+        "note": "Håll inte andan och krysta inte. Det ska kännas i musklerna, aldrig i ljumsken."
+      },
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-28",
+      "date": "2026-10-28",
+      "sport": "ski-erg",
+      "title": "Cykel + lätt stakmaskin",
+      "durationMin": 45,
+      "intensity": "Lugnt",
+      "phase": 2,
+      "steps": [
+        "Cykla lugnt i 30–35 min, gärna på gymmet.",
+        "Stakmaskin 2 × 6 min med lågt motstånd (spjäll 3–4) och 2 min vila emellan. Res dig upp mellan dragen, fäll från höften och låt armarna följa med.",
+        "Andas ut i varje drag och undvik att rycka med magen. Avsluta med 5 min lugn cykling."
+      ],
+      "purpose": "Vänjer bålen och armarna vid stakrörelsen igen, utan att belasta operationsområdet.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Stakning spänner magen hårt. Känns det minsta i ljumsken, avbryt stakdelen och cykla klart.",
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-29",
+      "date": "2026-10-29",
+      "sport": "running",
+      "title": "Lugn löpning",
+      "durationMin": 45,
+      "intensity": "Lugnt, zon 2",
+      "phase": 2,
+      "steps": [
+        "5–10 min rask gång eller mycket lätt jogg.",
+        "Spring cirka 35 min i ett tempo där du kan prata i hela meningar.",
+        "Avsluta med 5 min gång och lite rörlighet för höfter och vader."
+      ],
+      "purpose": "Bygger den aeroba grunden som ska bära dig hela vägen till Mora.",
+      "strength": {
+        "title": "Styrka A – försiktig start",
+        "durationMin": 23,
+        "items": [
+          "Dead bug 2 × 8 per sida. Andas ut när benet sträcks, ländryggen kvar mot golvet.",
+          "Höftlyft (glute bridge) 2 × 12.",
+          "Clamshells 2 × 15 per sida.",
+          "Sidoliggande benlyft med övre benet 2 × 12 per sida.",
+          "Sidoliggande benlyft med undre benet (insida lår) 2 × 10 per sida, lätt och kontrollerat.",
+          "Sidoplanka på knä 2 × 20 sek per sida.",
+          "Knäböj med kroppsvikt 2 × 12.",
+          "Enbensbalans 3 × 30 sek per ben, gärna sista varvet med slutna ögon."
+        ],
+        "note": "Håll inte andan och krysta inte. Det ska kännas i musklerna, aldrig i ljumsken."
+      },
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-10-31",
+      "date": "2026-10-31",
+      "sport": "cycling",
+      "title": "Långpass cykel",
+      "durationMin": 90,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 2,
+      "steps": [
+        "Starta lugnare än du tror, de första 15 minuterna ska kännas nästan för lätta.",
+        "Cykla 1 h 30 min i jämn, lugn fart.",
+        "Drick regelbundet och ta med något att äta om passet blir längre än 75 min."
+      ],
+      "purpose": "Ökar uthålligheten, grunden för ett 90-kilometerslopp. Skonar benen lite extra inför veckans övriga pass.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-01",
+      "date": "2026-11-01",
+      "sport": "rollerski",
+      "title": "Rullskidor – teknik och balans",
+      "durationMin": 35,
+      "intensity": "Lugnt",
+      "phase": 2,
+      "steps": [
+        "10 min lugn åkning i dubbeldans på plant underlag.",
+        "Balans: 4 × 1 min utan stavar. Landa hela vikten på glidskidan och stå kvar på den.",
+        "Paddling i lätt motlut: 4 × 1 min lugnt. Jobba med rytmen mellan stavisättning och frånskjut.",
+        "Lugn distans resten av tiden, totalt 35 min. Växla dubbeldans och enkeldans."
+      ],
+      "purpose": "Skejt är teknikberoende. God balans och full viktöverföring sparar enormt med energi över 90 km.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Platt asfalt utan trafik, hjälm och gärna långsamma hjul. Ett fall nu vore onödigt.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-03",
+      "date": "2026-11-03",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 40,
+      "intensity": "Lugnt, zon 2",
+      "phase": 2,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 40 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": {
+        "title": "Styrka A – försiktig start",
+        "durationMin": 23,
+        "items": [
+          "Dead bug 2 × 8 per sida. Andas ut när benet sträcks, ländryggen kvar mot golvet.",
+          "Höftlyft (glute bridge) 2 × 12.",
+          "Clamshells 2 × 15 per sida.",
+          "Sidoliggande benlyft med övre benet 2 × 12 per sida.",
+          "Sidoliggande benlyft med undre benet (insida lår) 2 × 10 per sida, lätt och kontrollerat.",
+          "Sidoplanka på knä 2 × 20 sek per sida.",
+          "Knäböj med kroppsvikt 2 × 12.",
+          "Enbensbalans 3 × 30 sek per ben, gärna sista varvet med slutna ögon."
+        ],
+        "note": "Håll inte andan och krysta inte. Det ska kännas i musklerna, aldrig i ljumsken."
+      },
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-04",
+      "date": "2026-11-04",
+      "sport": "ski-erg",
+      "title": "Cykel + lätt stakmaskin",
+      "durationMin": 50,
+      "intensity": "Lugnt",
+      "phase": 2,
+      "steps": [
+        "Cykla lugnt i 30–35 min, gärna på gymmet.",
+        "Stakmaskin 2 × 6 min med lågt motstånd (spjäll 3–4) och 2 min vila emellan. Res dig upp mellan dragen, fäll från höften och låt armarna följa med.",
+        "Andas ut i varje drag och undvik att rycka med magen. Avsluta med 5 min lugn cykling."
+      ],
+      "purpose": "Vänjer bålen och armarna vid stakrörelsen igen, utan att belasta operationsområdet.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Stakning spänner magen hårt. Känns det minsta i ljumsken, avbryt stakdelen och cykla klart.",
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-05",
+      "date": "2026-11-05",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 50,
+      "intensity": "Lugnt, zon 2",
+      "phase": 2,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 50 min.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": {
+        "title": "Styrka A – försiktig start",
+        "durationMin": 23,
+        "items": [
+          "Dead bug 2 × 8 per sida. Andas ut när benet sträcks, ländryggen kvar mot golvet.",
+          "Höftlyft (glute bridge) 2 × 12.",
+          "Clamshells 2 × 15 per sida.",
+          "Sidoliggande benlyft med övre benet 2 × 12 per sida.",
+          "Sidoliggande benlyft med undre benet (insida lår) 2 × 10 per sida, lätt och kontrollerat.",
+          "Sidoplanka på knä 2 × 20 sek per sida.",
+          "Knäböj med kroppsvikt 2 × 12.",
+          "Enbensbalans 3 × 30 sek per ben, gärna sista varvet med slutna ögon."
+        ],
+        "note": "Håll inte andan och krysta inte. Det ska kännas i musklerna, aldrig i ljumsken."
+      },
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-07",
+      "date": "2026-11-07",
+      "sport": "rollerski",
+      "title": "Långpass rullskidor",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 2,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 1 h 15 min i jämn, lugn fart. Välj en slinga där du kan fylla på dryck.",
+        "Alternativ om vägarna är blöta eller mörka: stavgång eller stavlöpning i kuperad terräng."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Platt asfalt utan trafik, hjälm och gärna långsamma hjul. Ett fall nu vore onödigt.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-08",
+      "date": "2026-11-08",
+      "sport": "rollerski",
+      "title": "Rullskidor – lugn distans",
+      "durationMin": 45,
+      "intensity": "Lugnt, zon 2",
+      "phase": 2,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "30 min jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "purpose": "Aerob volym i rätt rörelse. Ju fler timmar på skidorna, desto mer automatisk blir tekniken.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Platt asfalt utan trafik, hjälm och gärna långsamma hjul. Ett fall nu vore onödigt.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-10",
+      "date": "2026-11-10",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 40,
+      "intensity": "Lugnt, zon 2",
+      "phase": 2,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 40 min.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": {
+        "title": "Styrka A – försiktig start",
+        "durationMin": 23,
+        "items": [
+          "Dead bug 2 × 8 per sida. Andas ut när benet sträcks, ländryggen kvar mot golvet.",
+          "Höftlyft (glute bridge) 2 × 12.",
+          "Clamshells 2 × 15 per sida.",
+          "Sidoliggande benlyft med övre benet 2 × 12 per sida.",
+          "Sidoliggande benlyft med undre benet (insida lår) 2 × 10 per sida, lätt och kontrollerat.",
+          "Sidoplanka på knä 2 × 20 sek per sida.",
+          "Knäböj med kroppsvikt 2 × 12.",
+          "Enbensbalans 3 × 30 sek per ben, gärna sista varvet med slutna ögon."
+        ],
+        "note": "Håll inte andan och krysta inte. Det ska kännas i musklerna, aldrig i ljumsken."
+      },
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-11",
+      "date": "2026-11-11",
+      "sport": "ski-erg",
+      "title": "Cykel + lätt stakmaskin",
+      "durationMin": 45,
+      "intensity": "Lugnt",
+      "phase": 2,
+      "steps": [
+        "Cykla lugnt i 30–35 min, gärna på gymmet.",
+        "Stakmaskin 2 × 6 min med lågt motstånd (spjäll 3–4) och 2 min vila emellan. Res dig upp mellan dragen, fäll från höften och låt armarna följa med.",
+        "Andas ut i varje drag och undvik att rycka med magen. Avsluta med 5 min lugn cykling."
+      ],
+      "purpose": "Vänjer bålen och armarna vid stakrörelsen igen, utan att belasta operationsområdet.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Stakning spänner magen hårt. Känns det minsta i ljumsken, avbryt stakdelen och cykla klart.",
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-12",
+      "date": "2026-11-12",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 40,
+      "intensity": "Lugnt, zon 2",
+      "phase": 2,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 40 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": {
+        "title": "Styrka A – försiktig start",
+        "durationMin": 23,
+        "items": [
+          "Dead bug 2 × 8 per sida. Andas ut när benet sträcks, ländryggen kvar mot golvet.",
+          "Höftlyft (glute bridge) 2 × 12.",
+          "Clamshells 2 × 15 per sida.",
+          "Sidoliggande benlyft med övre benet 2 × 12 per sida.",
+          "Sidoliggande benlyft med undre benet (insida lår) 2 × 10 per sida, lätt och kontrollerat.",
+          "Sidoplanka på knä 2 × 20 sek per sida.",
+          "Knäböj med kroppsvikt 2 × 12.",
+          "Enbensbalans 3 × 30 sek per ben, gärna sista varvet med slutna ögon."
+        ],
+        "note": "Håll inte andan och krysta inte. Det ska kännas i musklerna, aldrig i ljumsken."
+      },
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-14",
+      "date": "2026-11-14",
+      "sport": "rollerski",
+      "title": "Långpass rullskidor",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 2,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 1 h i jämn, lugn fart. Välj en slinga där du kan fylla på dryck.",
+        "Alternativ om vägarna är blöta eller mörka: stavgång eller stavlöpning i kuperad terräng."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Platt asfalt utan trafik, hjälm och gärna långsamma hjul. Ett fall nu vore onödigt.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-15",
+      "date": "2026-11-15",
+      "sport": "rollerski",
+      "title": "Rullskidor – lugn distans",
+      "durationMin": 45,
+      "intensity": "Lugnt, zon 2",
+      "phase": 2,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "30 min jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "purpose": "Aerob volym i rätt rörelse. Ju fler timmar på skidorna, desto mer automatisk blir tekniken.",
+      "strength": null,
+      "tips": [
+        "Ljumsken styr. Lätt träningsvärk i musklerna är okej, smärta eller tryck i ljumsken är det inte.",
+        "Platt asfalt utan trafik, hjälm och gärna långsamma hjul. Ett fall nu vore onödigt.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-17",
+      "date": "2026-11-17",
+      "sport": "cycling",
+      "title": "Cykelintervaller 5 × 4 min",
+      "durationMin": 60,
+      "intensity": "Tröskel, zon 4",
+      "phase": 3,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "5 × 4 min i hårt tempo (högt motstånd eller motlut), med 2 min lugn trampning emellan. Jämn effekt: sista intervallen ska kännas lika hård som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h."
+      ],
+      "purpose": "Höjer tröskeln, alltså farten du kan hålla länge utan att stumna. Samma stimulans som rullskidintervaller, fast på land.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-18",
+      "date": "2026-11-18",
+      "sport": "ski-erg",
+      "title": "Stakmaskin på gymmet",
+      "durationMin": 50,
+      "intensity": "Lugnt till medel",
+      "phase": 3,
+      "steps": [
+        "10 min lätt uppvärmning på cykel eller löpband.",
+        "Stakmaskin: 4 × 5 min lugnt till medel, med 2 min lugn stakning eller vila emellan.",
+        "Lugnt på cykeln resten av tiden, totalt cirka 50 min. Sedan styrkepasset."
+      ],
+      "purpose": "Stakstyrka och uthållighet i överkroppen, det som bär stavisättningen i skejten. Bra när det är mörkt eller blött ute.",
+      "strength": {
+        "title": "Styrka B – skejtstyrka",
+        "durationMin": 30,
+        "items": [
+          "Bulgarisk utfallsknäböj 3 × 8 per ben.",
+          "Sidoutfall 3 × 8 per sida.",
+          "Copenhagen-planka med böjt knä 3 × 15–20 sek per sida. Börja kort, öka först när det känns stabilt.",
+          "Pallof press med gummiband 3 × 10 per sida.",
+          "Planka 3 × 40 sek.",
+          "Skejthopp i sidled 3 × 10 per sida. Mjuka landningar, stå still en sekund på varje ben.",
+          "Rygglyft 3 × 12.",
+          "Dips mot bänk eller smala armhävningar 3 × 10, för stavisättningen."
+        ],
+        "note": "Andas genom rörelserna. Bålen ska spännas, inte tryckas ut."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-19",
+      "date": "2026-11-19",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 50,
+      "intensity": "Lugnt, zon 2",
+      "phase": 3,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 50 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": {
+        "title": "Styrka B – skejtstyrka",
+        "durationMin": 30,
+        "items": [
+          "Bulgarisk utfallsknäböj 3 × 8 per ben.",
+          "Sidoutfall 3 × 8 per sida.",
+          "Copenhagen-planka med böjt knä 3 × 15–20 sek per sida. Börja kort, öka först när det känns stabilt.",
+          "Pallof press med gummiband 3 × 10 per sida.",
+          "Planka 3 × 40 sek.",
+          "Skejthopp i sidled 3 × 10 per sida. Mjuka landningar, stå still en sekund på varje ben.",
+          "Rygglyft 3 × 12.",
+          "Dips mot bänk eller smala armhävningar 3 × 10, för stavisättningen."
+        ],
+        "note": "Andas genom rörelserna. Bålen ska spännas, inte tryckas ut."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-21",
+      "date": "2026-11-21",
+      "sport": "rollerski",
+      "title": "Långpass rullskidor",
+      "durationMin": 105,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 3,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 1 h 45 min i jämn, lugn fart. Välj en slinga där du kan fylla på dryck.",
+        "Alternativ om vägarna är blöta eller mörka: stavgång eller stavlöpning i kuperad terräng."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-22",
+      "date": "2026-11-22",
+      "sport": "rollerski",
+      "title": "Rullskidor – lugn distans",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 3,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "45 min jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "purpose": "Aerob volym i rätt rörelse. Ju fler timmar på skidorna, desto mer automatisk blir tekniken.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-24",
+      "date": "2026-11-24",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer – intervaller 6 × 4 min",
+      "durationMin": 65,
+      "intensity": "Tröskel, zon 4",
+      "phase": 3,
+      "steps": [
+        "15–20 min lugn uppvärmning med stigande motstånd.",
+        "6 × 4 min i hårt tempo med högt motstånd, med 2 min lugnt emellan. Jämn fart: sista intervallen ska gå lika hårt som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 5 min."
+      ],
+      "purpose": "Höjer tröskeln, alltså farten du kan hålla länge utan att stumna. Helkroppsrörelse som liknar skejt, och du slipper mörker och halka.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-25",
+      "date": "2026-11-25",
+      "sport": "ski-erg",
+      "title": "Stakmaskin på gymmet",
+      "durationMin": 60,
+      "intensity": "Lugnt till medel",
+      "phase": 3,
+      "steps": [
+        "10 min lätt uppvärmning på cykel eller löpband.",
+        "Stakmaskin: 3 × 10 min lugnt, med 2 min lugn stakning eller vila emellan.",
+        "Lugnt på cykeln resten av tiden, totalt cirka 1 h. Sedan styrkepasset."
+      ],
+      "purpose": "Stakstyrka och uthållighet i överkroppen, det som bär stavisättningen i skejten. Bra när det är mörkt eller blött ute.",
+      "strength": {
+        "title": "Styrka B – skejtstyrka",
+        "durationMin": 30,
+        "items": [
+          "Bulgarisk utfallsknäböj 3 × 8 per ben.",
+          "Sidoutfall 3 × 8 per sida.",
+          "Copenhagen-planka med böjt knä 3 × 15–20 sek per sida. Börja kort, öka först när det känns stabilt.",
+          "Pallof press med gummiband 3 × 10 per sida.",
+          "Planka 3 × 40 sek.",
+          "Skejthopp i sidled 3 × 10 per sida. Mjuka landningar, stå still en sekund på varje ben.",
+          "Rygglyft 3 × 12.",
+          "Dips mot bänk eller smala armhävningar 3 × 10, för stavisättningen."
+        ],
+        "note": "Andas genom rörelserna. Bålen ska spännas, inte tryckas ut."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-26",
+      "date": "2026-11-26",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 50,
+      "intensity": "Lugnt, zon 2",
+      "phase": 3,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 50 min.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": {
+        "title": "Styrka B – skejtstyrka",
+        "durationMin": 30,
+        "items": [
+          "Bulgarisk utfallsknäböj 3 × 8 per ben.",
+          "Sidoutfall 3 × 8 per sida.",
+          "Copenhagen-planka med böjt knä 3 × 15–20 sek per sida. Börja kort, öka först när det känns stabilt.",
+          "Pallof press med gummiband 3 × 10 per sida.",
+          "Planka 3 × 40 sek.",
+          "Skejthopp i sidled 3 × 10 per sida. Mjuka landningar, stå still en sekund på varje ben.",
+          "Rygglyft 3 × 12.",
+          "Dips mot bänk eller smala armhävningar 3 × 10, för stavisättningen."
+        ],
+        "note": "Andas genom rörelserna. Bålen ska spännas, inte tryckas ut."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-28",
+      "date": "2026-11-28",
+      "sport": "rollerski",
+      "title": "Långpass rullskidor",
+      "durationMin": 120,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 3,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 2 h i jämn, lugn fart. Välj en slinga där du kan fylla på dryck.",
+        "Alternativ om vägarna är blöta eller mörka: stavgång eller stavlöpning i kuperad terräng."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "tips": [
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-11-29",
+      "date": "2026-11-29",
+      "sport": "rollerski",
+      "title": "Rullskidor – lugn distans",
+      "durationMin": 70,
+      "intensity": "Lugnt, zon 2",
+      "phase": 3,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "55 min jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "purpose": "Aerob volym i rätt rörelse. Ju fler timmar på skidorna, desto mer automatisk blir tekniken.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-01",
+      "date": "2026-12-01",
+      "sport": "cycling",
+      "title": "Cykelintervaller 4 × 6 min",
+      "durationMin": 70,
+      "intensity": "Hårt, zon 4–5",
+      "phase": 3,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "4 × 6 min i hårt tempo (högt motstånd eller motlut), med 2 min lugn trampning emellan. Jämn effekt: sista intervallen ska kännas lika hård som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 10 min."
+      ],
+      "purpose": "Höjer din maximala syreupptagning, taket för hur hårt du kan jobba. Samma fysiologiska stimulans som rullskidintervaller, fast på land.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-02",
+      "date": "2026-12-02",
+      "sport": "ski-erg",
+      "title": "Stakmaskin på gymmet",
+      "durationMin": 60,
+      "intensity": "Lugnt till medel",
+      "phase": 3,
+      "steps": [
+        "10 min lätt uppvärmning på cykel eller löpband.",
+        "Stakmaskin: 5 × 4 min i medelfart, med 2 min lugn stakning eller vila emellan.",
+        "Lugnt på cykeln resten av tiden, totalt cirka 1 h. Sedan styrkepasset."
+      ],
+      "purpose": "Stakstyrka och uthållighet i överkroppen, det som bär stavisättningen i skejten. Bra när det är mörkt eller blött ute.",
+      "strength": {
+        "title": "Styrka B – skejtstyrka",
+        "durationMin": 30,
+        "items": [
+          "Bulgarisk utfallsknäböj 3 × 8 per ben.",
+          "Sidoutfall 3 × 8 per sida.",
+          "Copenhagen-planka med böjt knä 3 × 15–20 sek per sida. Börja kort, öka först när det känns stabilt.",
+          "Pallof press med gummiband 3 × 10 per sida.",
+          "Planka 3 × 40 sek.",
+          "Skejthopp i sidled 3 × 10 per sida. Mjuka landningar, stå still en sekund på varje ben.",
+          "Rygglyft 3 × 12.",
+          "Dips mot bänk eller smala armhävningar 3 × 10, för stavisättningen."
+        ],
+        "note": "Andas genom rörelserna. Bålen ska spännas, inte tryckas ut."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-03",
+      "date": "2026-12-03",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 50,
+      "intensity": "Lugnt, zon 2",
+      "phase": 3,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 50 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": {
+        "title": "Styrka B – skejtstyrka",
+        "durationMin": 30,
+        "items": [
+          "Bulgarisk utfallsknäböj 3 × 8 per ben.",
+          "Sidoutfall 3 × 8 per sida.",
+          "Copenhagen-planka med böjt knä 3 × 15–20 sek per sida. Börja kort, öka först när det känns stabilt.",
+          "Pallof press med gummiband 3 × 10 per sida.",
+          "Planka 3 × 40 sek.",
+          "Skejthopp i sidled 3 × 10 per sida. Mjuka landningar, stå still en sekund på varje ben.",
+          "Rygglyft 3 × 12.",
+          "Dips mot bänk eller smala armhävningar 3 × 10, för stavisättningen."
+        ],
+        "note": "Andas genom rörelserna. Bålen ska spännas, inte tryckas ut."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-05",
+      "date": "2026-12-05",
+      "sport": "rollerski",
+      "title": "Långpass rullskidor",
+      "durationMin": 135,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 3,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 2 h 15 min i jämn, lugn fart. Välj en slinga där du kan fylla på dryck.",
+        "Alternativ om vägarna är blöta eller mörka: stavgång eller stavlöpning i kuperad terräng."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "tips": [
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-06",
+      "date": "2026-12-06",
+      "sport": "rollerski",
+      "title": "Rullskidor – teknik och balans",
+      "durationMin": 60,
+      "intensity": "Lugnt",
+      "phase": 3,
+      "steps": [
+        "10 min lugn åkning i dubbeldans på plant underlag.",
+        "Balans: 4 × 1 min utan stavar. Landa hela vikten på glidskidan och stå kvar på den.",
+        "Paddling i lätt motlut: 4 × 1 min lugnt. Jobba med rytmen mellan stavisättning och frånskjut.",
+        "Lugn distans resten av tiden, totalt 1 h. Växla dubbeldans och enkeldans."
+      ],
+      "purpose": "Skejt är teknikberoende. God balans och full viktöverföring sparar enormt med energi över 90 km.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-08",
+      "date": "2026-12-08",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer – intervaller 6 × 2 min",
+      "durationMin": 50,
+      "intensity": "Hårt, zon 4–5",
+      "phase": 3,
+      "steps": [
+        "15–20 min lugn uppvärmning med stigande motstånd.",
+        "6 × 2 min i hårt tempo med högt motstånd, med 2 min lugnt emellan. Jämn fart: sista intervallen ska gå lika hårt som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 50 min."
+      ],
+      "purpose": "Höjer din maximala syreupptagning, taket för hur hårt du kan jobba. Helkroppsrörelse som liknar skejt, och du slipper mörker och halka.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-09",
+      "date": "2026-12-09",
+      "sport": "ski-erg",
+      "title": "Stakmaskin på gymmet",
+      "durationMin": 45,
+      "intensity": "Lugnt till medel",
+      "phase": 3,
+      "steps": [
+        "10 min lätt uppvärmning på cykel eller löpband.",
+        "Stakmaskin: 3 × 6 min lugnt, med 2 min lugn stakning eller vila emellan.",
+        "Lugnt på cykeln resten av tiden, totalt cirka 45 min. Sedan styrkepasset."
+      ],
+      "purpose": "Stakstyrka och uthållighet i överkroppen, det som bär stavisättningen i skejten. Bra när det är mörkt eller blött ute.",
+      "strength": {
+        "title": "Styrka B – skejtstyrka",
+        "durationMin": 30,
+        "items": [
+          "Bulgarisk utfallsknäböj 3 × 8 per ben.",
+          "Sidoutfall 3 × 8 per sida.",
+          "Copenhagen-planka med böjt knä 3 × 15–20 sek per sida. Börja kort, öka först när det känns stabilt.",
+          "Pallof press med gummiband 3 × 10 per sida.",
+          "Planka 3 × 40 sek.",
+          "Skejthopp i sidled 3 × 10 per sida. Mjuka landningar, stå still en sekund på varje ben.",
+          "Rygglyft 3 × 12.",
+          "Dips mot bänk eller smala armhävningar 3 × 10, för stavisättningen."
+        ],
+        "note": "Andas genom rörelserna. Bålen ska spännas, inte tryckas ut."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-10",
+      "date": "2026-12-10",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 40,
+      "intensity": "Lugnt, zon 2",
+      "phase": 3,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 40 min.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-12",
+      "date": "2026-12-12",
+      "sport": "rollerski",
+      "title": "Långpass rullskidor",
+      "durationMin": 90,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 3,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 1 h 30 min i jämn, lugn fart. Välj en slinga där du kan fylla på dryck.",
+        "Alternativ om vägarna är blöta eller mörka: stavgång eller stavlöpning i kuperad terräng."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-13",
+      "date": "2026-12-13",
+      "sport": "rollerski",
+      "title": "Rullskidor – lugn distans",
+      "durationMin": 50,
+      "intensity": "Lugnt, zon 2",
+      "phase": 3,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "35 min jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "purpose": "Aerob volym i rätt rörelse. Ju fler timmar på skidorna, desto mer automatisk blir tekniken.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-15",
+      "date": "2026-12-15",
+      "sport": "cycling",
+      "title": "Cykelintervaller 5 × 5 min",
+      "durationMin": 70,
+      "intensity": "Hårt, zon 4–5",
+      "phase": 4,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "5 × 5 min i hårt tempo (högt motstånd eller motlut), med 2 min lugn trampning emellan. Jämn effekt: sista intervallen ska kännas lika hård som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 10 min."
+      ],
+      "purpose": "Höjer din maximala syreupptagning, taket för hur hårt du kan jobba. Samma fysiologiska stimulans som rullskidintervaller, fast på land.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-16",
+      "date": "2026-12-16",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-17",
+      "date": "2026-12-17",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-19",
+      "date": "2026-12-19",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 150,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 4,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 2 h 30 min i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-20",
+      "date": "2026-12-20",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "1 h jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "purpose": "Aerob volym i rätt rörelse. Ju fler timmar på skidorna, desto mer automatisk blir tekniken.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-22",
+      "date": "2026-12-22",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer – intervaller 3 × 10 min",
+      "durationMin": 75,
+      "intensity": "Tröskel, zon 4",
+      "phase": 4,
+      "steps": [
+        "15–20 min lugn uppvärmning med stigande motstånd.",
+        "3 × 10 min i hårt tempo med högt motstånd, med 3 min lugnt emellan. Jämn fart: sista intervallen ska gå lika hårt som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 15 min."
+      ],
+      "purpose": "Höjer tröskeln, alltså farten du kan hålla länge utan att stumna. Helkroppsrörelse som liknar skejt, och du slipper mörker och halka.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-23",
+      "date": "2026-12-23",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-24",
+      "date": "2026-12-24",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h 15 min.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-26",
+      "date": "2026-12-26",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 165,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 4,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 2 h 45 min i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-27",
+      "date": "2026-12-27",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "1 h jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "purpose": "Aerob volym i rätt rörelse. Ju fler timmar på skidorna, desto mer automatisk blir tekniken.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-29",
+      "date": "2026-12-29",
+      "sport": "cycling",
+      "title": "Cykelintervaller 4 × 8 min",
+      "durationMin": 80,
+      "intensity": "Tröskel, zon 4",
+      "phase": 4,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "4 × 8 min i hårt tempo (högt motstånd eller motlut), med 2 min lugn trampning emellan. Jämn effekt: sista intervallen ska kännas lika hård som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 20 min."
+      ],
+      "purpose": "Höjer tröskeln, alltså farten du kan hålla länge utan att stumna. Samma stimulans som rullskidintervaller, fast på land.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-30",
+      "date": "2026-12-30",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-31",
+      "date": "2026-12-31",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 90,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h 30 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-02",
+      "date": "2027-01-02",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 180,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 4,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 3 h i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-03",
+      "date": "2027-01-03",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "1 h jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "purpose": "Aerob volym i rätt rörelse. Ju fler timmar på skidorna, desto mer automatisk blir tekniken.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-05",
+      "date": "2027-01-05",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer – intervaller 6 × 3 min",
+      "durationMin": 60,
+      "intensity": "Hårt, zon 4–5",
+      "phase": 4,
+      "steps": [
+        "15–20 min lugn uppvärmning med stigande motstånd.",
+        "6 × 3 min i hårt tempo med högt motstånd, med 2 min lugnt emellan. Jämn fart: sista intervallen ska gå lika hårt som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h."
+      ],
+      "purpose": "Höjer din maximala syreupptagning, taket för hur hårt du kan jobba. Helkroppsrörelse som liknar skejt, och du slipper mörker och halka.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-06",
+      "date": "2027-01-06",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 45,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 45 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-07",
+      "date": "2027-01-07",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 45,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 45 min.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-09",
+      "date": "2027-01-09",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 120,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 4,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 2 h i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-10",
+      "date": "2027-01-10",
+      "sport": "skate-ski",
+      "title": "Skejt – teknik och balans",
+      "durationMin": 60,
+      "intensity": "Lugnt",
+      "phase": 4,
+      "steps": [
+        "10 min lugn åkning i dubbeldans.",
+        "Balans: 4 × 1 min utan stavar, gärna i ett lätt utför.",
+        "Paddling i motlut: 4 × 1 min. Fokus på höga höfter och ett lugnt, långt frånskjut.",
+        "6 × 30 sek i loppfart på flackt med 1 min lugnt emellan.",
+        "Lugn distans resten av tiden, totalt 1 h."
+      ],
+      "purpose": "Skejt är teknikberoende. God balans och full viktöverföring sparar enormt med energi över 90 km.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-12",
+      "date": "2027-01-12",
+      "sport": "cycling",
+      "title": "Cykelintervaller 3 × 12 min",
+      "durationMin": 85,
+      "intensity": "Tröskel, zon 4",
+      "phase": 4,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "3 × 12 min i hårt tempo (högt motstånd eller motlut), med 3 min lugn trampning emellan. Jämn effekt: sista intervallen ska kännas lika hård som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 25 min."
+      ],
+      "purpose": "Höjer tröskeln, alltså farten du kan hålla länge utan att stumna. Samma stimulans som rullskidintervaller, fast på land.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-13",
+      "date": "2027-01-13",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-14",
+      "date": "2027-01-14",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 90,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h 30 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-16",
+      "date": "2027-01-16",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 195,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 4,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 3 h 15 min i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-17",
+      "date": "2027-01-17",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "1 h jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "purpose": "Aerob volym i rätt rörelse. Ju fler timmar på skidorna, desto mer automatisk blir tekniken.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-19",
+      "date": "2027-01-19",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer – intervaller 5 × 6 min",
+      "durationMin": 80,
+      "intensity": "Hårt, zon 4–5",
+      "phase": 4,
+      "steps": [
+        "15–20 min lugn uppvärmning med stigande motstånd.",
+        "5 × 6 min i hårt tempo med högt motstånd, med 2 min lugnt emellan. Jämn fart: sista intervallen ska gå lika hårt som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 20 min."
+      ],
+      "purpose": "Höjer din maximala syreupptagning, taket för hur hårt du kan jobba. Helkroppsrörelse som liknar skejt, och du slipper mörker och halka.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-20",
+      "date": "2027-01-20",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-21",
+      "date": "2027-01-21",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h 15 min.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-23",
+      "date": "2027-01-23",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 210,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 4,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 3 h 30 min i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-24",
+      "date": "2027-01-24",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 80,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "1 h 5 min jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "purpose": "Aerob volym i rätt rörelse. Ju fler timmar på skidorna, desto mer automatisk blir tekniken.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-26",
+      "date": "2027-01-26",
+      "sport": "cycling",
+      "title": "Cykelintervaller 2 × 20 min",
+      "durationMin": 90,
+      "intensity": "Tröskel, zon 4",
+      "phase": 4,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "2 × 20 min i hårt tempo (högt motstånd eller motlut), med 4 min lugn trampning emellan. Jämn effekt: sista intervallen ska kännas lika hård som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 30 min."
+      ],
+      "purpose": "Höjer tröskeln, alltså farten du kan hålla länge utan att stumna. Samma stimulans som rullskidintervaller, fast på land.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-27",
+      "date": "2027-01-27",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-28",
+      "date": "2027-01-28",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 90,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h 30 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-30",
+      "date": "2027-01-30",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 240,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 4,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 4 h i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-31",
+      "date": "2027-01-31",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "1 h jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "purpose": "Aerob volym i rätt rörelse. Ju fler timmar på skidorna, desto mer automatisk blir tekniken.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-02",
+      "date": "2027-02-02",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer – intervaller 6 × 3 min",
+      "durationMin": 60,
+      "intensity": "Hårt, zon 4–5",
+      "phase": 4,
+      "steps": [
+        "15–20 min lugn uppvärmning med stigande motstånd.",
+        "6 × 3 min i hårt tempo med högt motstånd, med 2 min lugnt emellan. Jämn fart: sista intervallen ska gå lika hårt som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h."
+      ],
+      "purpose": "Höjer din maximala syreupptagning, taket för hur hårt du kan jobba. Helkroppsrörelse som liknar skejt, och du slipper mörker och halka.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-03",
+      "date": "2027-02-03",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 45,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 45 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-04",
+      "date": "2027-02-04",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 45,
+      "intensity": "Lugnt, zon 2",
+      "phase": 4,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 45 min.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-06",
+      "date": "2027-02-06",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 150,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 4,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 2 h 30 min i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-07",
+      "date": "2027-02-07",
+      "sport": "skate-ski",
+      "title": "Skejt – teknik och balans",
+      "durationMin": 60,
+      "intensity": "Lugnt",
+      "phase": 4,
+      "steps": [
+        "10 min lugn åkning i dubbeldans.",
+        "Balans: 4 × 1 min utan stavar, gärna i ett lätt utför.",
+        "Paddling i motlut: 4 × 1 min. Fokus på höga höfter och ett lugnt, långt frånskjut.",
+        "6 × 30 sek i loppfart på flackt med 1 min lugnt emellan.",
+        "Lugn distans resten av tiden, totalt 1 h."
+      ],
+      "purpose": "Skejt är teknikberoende. God balans och full viktöverföring sparar enormt med energi över 90 km.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-09",
+      "date": "2027-02-09",
+      "sport": "cycling",
+      "title": "Cykelintervaller 3 × 15 min i loppfart",
+      "durationMin": 85,
+      "intensity": "Tröskel, zon 4",
+      "phase": 5,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "3 × 15 min i loppfart i hårt tempo (högt motstånd eller motlut), med 3 min lugn trampning emellan. Jämn effekt: sista intervallen ska kännas lika hård som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 25 min."
+      ],
+      "purpose": "Höjer tröskeln, alltså farten du kan hålla länge utan att stumna. Samma stimulans som rullskidintervaller, fast på land.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-10",
+      "date": "2027-02-10",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-11",
+      "date": "2027-02-11",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h 15 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-13",
+      "date": "2027-02-13",
+      "sport": "skate-ski",
+      "title": "Genrep – 5 timmar",
+      "durationMin": 300,
+      "intensity": "Lugnt till loppfart",
+      "phase": 5,
+      "steps": [
+        "Åk 5 timmar, gärna ungefär 60 km, i den fart du tänker hålla i Öppet Spår.",
+        "Använd exakt de skidor, den valla, de kläder och den mat du ska ha i loppet.",
+        "Ät och drick var 30–45 min, som om varje halvtimme vore en kontroll.",
+        "Notera hur långt du kommer per timme. Det blir din grund för loppets tidsplan och reptiderna."
+      ],
+      "purpose": "Det bästa sättet att hitta problem innan de spelar roll: skav, energi, vallning, kyla.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-14",
+      "date": "2027-02-14",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "45 min jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "purpose": "Aerob volym i rätt rörelse. Ju fler timmar på skidorna, desto mer automatisk blir tekniken.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-16",
+      "date": "2027-02-16",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer – intervaller 4 × 5 min",
+      "durationMin": 70,
+      "intensity": "Hårt, zon 4–5",
+      "phase": 5,
+      "steps": [
+        "15–20 min lugn uppvärmning med stigande motstånd.",
+        "4 × 5 min i hårt tempo med högt motstånd, med 2 min lugnt emellan. Jämn fart: sista intervallen ska gå lika hårt som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 10 min."
+      ],
+      "purpose": "Höjer din maximala syreupptagning, taket för hur hårt du kan jobba. Helkroppsrörelse som liknar skejt, och du slipper mörker och halka.",
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-17",
+      "date": "2027-02-17",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 50,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 50 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "purpose": "Skonsam konditionsvolym med helkroppsrörelse, en bra skidimitation när ni ändå är inne.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-18",
+      "date": "2027-02-18",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-20",
+      "date": "2027-02-20",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 150,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 5,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 2 h 30 min i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "purpose": "Uthållighet och fettförbränning, grunden för 90 km.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-21",
+      "date": "2027-02-21",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "45 min jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "purpose": "Aerob volym i rätt rörelse. Ju fler timmar på skidorna, desto mer automatisk blir tekniken.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-23",
+      "date": "2027-02-23",
+      "sport": "skate-ski",
+      "title": "Skejt – intervaller 4 × 3 min i loppfart",
+      "durationMin": 50,
+      "intensity": "Tröskel, zon 4",
+      "phase": 5,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "4 × 3 min i loppfart i lätt motlut, med 2 min lugn åkning emellan. Jämn fart: sista intervallen ska gå lika fort som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 50 min."
+      ],
+      "purpose": "Höjer tröskeln, alltså farten du kan hålla länge utan att stumna.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-24",
+      "date": "2027-02-24",
+      "sport": "cycling",
+      "title": "Lugn cykling",
+      "durationMin": 40,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 40 min.",
+        "Undvik att stå upp och trycka i branta backar."
+      ],
+      "purpose": "Kondition med låg belastning, och bra omväxling mot löpningen.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-25",
+      "date": "2027-02-25",
+      "sport": "skate-ski",
+      "title": "Skejt – teknik och balans",
+      "durationMin": 40,
+      "intensity": "Lugnt",
+      "phase": 5,
+      "steps": [
+        "10 min lugn åkning i dubbeldans.",
+        "Balans: 4 × 1 min utan stavar, gärna i ett lätt utför.",
+        "Paddling i motlut: 4 × 1 min. Fokus på höga höfter och ett lugnt, långt frånskjut.",
+        "6 × 30 sek i loppfart på flackt med 1 min lugnt emellan.",
+        "Lugn distans resten av tiden, totalt 40 min."
+      ],
+      "purpose": "Skejt är teknikberoende. God balans och full viktöverföring sparar enormt med energi över 90 km.",
+      "strength": null,
+      "snowFallback": true,
+      "tips": [
+        "Ingen snö där du är? Kör samma pass på rullskidor.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-27",
+      "date": "2027-02-27",
+      "sport": "skate-ski",
+      "title": "Lätt åkning och utrustningskoll",
+      "durationMin": 30,
+      "intensity": "Lugnt",
+      "phase": 5,
+      "steps": [
+        "30 min lugn åkning, gärna på loppskidorna.",
+        "Testa glid och kläder i den temperatur som är utlovad.",
+        "Packa allt du ska ha och lägg fram det."
+      ],
+      "purpose": "Lugn i kroppen och i huvudet inför loppet.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-28",
+      "date": "2027-02-28",
+      "sport": "skate-ski",
+      "title": "Aktivering",
+      "durationMin": 20,
+      "intensity": "Lugnt + några korta ryck",
+      "phase": 5,
+      "steps": [
+        "15 min mycket lugn åkning eller jogg.",
+        "3 × 30 sek i loppfart med 1 min lugnt emellan.",
+        "Kolla skidor, valla, nummerlapp, kläder och mat för morgondagen."
+      ],
+      "purpose": "Får kroppen att vakna utan att trötta. Formen är redan byggd.",
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-03-01",
+      "date": "2027-03-01",
+      "sport": "race",
+      "title": "Öppet Spår måndag 90",
+      "durationMin": 0,
+      "intensity": "Din dag",
+      "phase": 5,
+      "steps": [
+        "Start i Berga by, Sälen. Startfållorna öppnar 06.00 och startleden går var tionde minut från 07.00. Ditt led avgör din starttid.",
+        "Börja lugnare än du tror. Den första backen är lång och det är 90 km kvar.",
+        "Ät och drick vid varje kontroll, även när du inte känner dig hungrig.",
+        "Reptider (sista passering): Smågan 10.30, Mångsbodarna 12.15, Risberg 13.45, Evertsberg 15.00, Oxberg 16.30, Hökberg 17.40, Eldris 19.00.",
+        "Boka Vasaloppsbussen när bokningen öppnar i slutet av november.",
+        "Njut av sista biten in mot Mora och kyrktornet."
+      ],
+      "purpose": "Allt arbete sedan oktober leder hit.",
+      "strength": null,
+      "race": true
+    }
+  ]
+}

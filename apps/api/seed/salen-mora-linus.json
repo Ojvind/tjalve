@@ -1,0 +1,2667 @@
+{
+  "slug": "salen-mora-2027-linus",
+  "title": "Sälen–Mora 2027 – Linus",
+  "goal": "Öppet Spår måndag 90, skate",
+  "raceDate": "2027-03-01",
+  "startDate": "2026-09-07",
+  "phases": [
+    {
+      "n": 1,
+      "name": "Grundfas",
+      "dateRange": "7–20 sep",
+      "description": "Löpningen blir sammanhängande. Styrka med kroppsvikt. Ingen skivstång, ingen is."
+    },
+    {
+      "n": 2,
+      "name": "Volymbygge",
+      "dateRange": "21 sep–18 okt",
+      "description": "Löpvolymen byggs mot 70 minuter. Styrkepass A tre veckor i rad, sedan lättvecka."
+    },
+    {
+      "n": 3,
+      "name": "Skivstång och is",
+      "dateRange": "19 okt–15 nov",
+      "description": "Skivstången kommer in. Skridsko på is ersätter ett löppass i veckan."
+    },
+    {
+      "n": 4,
+      "name": "Tyngre styrka",
+      "dateRange": "16 nov–13 dec",
+      "description": "Tyngre styrka och sidohopp. Långpasset byggs mot två timmar. 13 december: avstämning med kirurgen inför nästa block."
+    },
+    {
+      "n": 5,
+      "name": "Snö och volym",
+      "dateRange": "14 dec–7 feb",
+      "description": "Samma block som Öjvind kör. Skidor (skate, aldrig rullskidor) på helger när det finns snö, långpassen växer mot 4 timmar."
+    },
+    {
+      "n": 6,
+      "name": "Loppspecifikt och nedtrappning",
+      "dateRange": "8 feb–1 mar",
+      "description": "Genrep, sedan mindre volym och kvar med fart."
+    }
+  ],
+  "rules": [
+    "Tempo: Lugnt tempo = du kan prata i hela meningar utan att bli andfådd. Om du inte kan det, sakta ner. Medeltempo = korta meningar. Hårt tempo = enstaka ord. Står inget tempo i schemat är det lugnt tempo.",
+    "Andning: Andas ut när du anstränger dig. Håll aldrig andan i en övning. Klarar du inte övningen utan att hålla andan är vikten för tung — sänk den.",
+    "Smärta: Sting, drag eller tryck vid ärret: avbryt passet direkt. Vila två dagar. Gör sedan halva mängden av det pass du avbröt. Gör resten av schemat som vanligt.",
+    "Missat pass: Ett missat pass görs inte igen. Gå vidare till nästa dag i schemat. Lägg aldrig ihop två pass på en dag.",
+    "Vikt: Välj en vikt du klarar alla set med och har två repetitioner kvar. Öka med 2,5 kg först när du klarat alla set med rätt teknik två pass i rad.",
+    "Snö: När det finns snö: byt lördagens långpass mot ett skidpass med skate, lika många minuter. Byt inget annat pass. Rullskidor används inte."
+  ],
+  "weeklyChecks": [
+    "Ärrkontroll — varje söndag. Ställ dig upp framför en spegel. Spänn magen och hosta en gång. Titta och känn längs hela snittet, uppifrån och ner. Du letar efter en bula eller buktning som inte fanns förra söndagen. Hittar du en: träna inte, ring vårdcentralen eller 1177 nästa vardag."
+  ],
+  "exclusions": [
+    "Rullskidor: ingår inte i programmet. Skidteknik tränas först på snö.",
+    "Stakmaskin: ingår inte. Stakning är belastad bålfällning och är den tyngsta belastningen ett medellinjessnitt kan få. Den kan tas upp tidigast i januari, och bara om kirurgen sagt ja i december.",
+    "Maxlyft: ingår inte. Tidigast mitten av januari, efter läkarbedömning.",
+    "Kontaktidrott och hockey: ingår inte. Tidigast mitten av januari, efter läkarbedömning.",
+    "Situps, crunches och hängande benlyft: ingår inte alls under programmet."
+  ],
+  "emergency": "Ring vården samma dag vid: bula eller buktning vid ärret · plötslig kraftig magsmärta · kräkning tillsammans med uppblåst mage · ingen avföring på två dygn tillsammans med magsmärta · feber över 38 grader · rodnad eller vätska från ärret. Vårdcentral på dagtid, 1177 annars, 112 vid kraftig smärta.",
+  "sessions": [
+    {
+      "id": "2026-09-07",
+      "date": "2026-09-07",
+      "sport": "strength",
+      "title": "Bålpass",
+      "durationMin": 15,
+      "phase": 1,
+      "steps": [
+        "Diafragmaandning, liggande på rygg, hand på magen — 10 andetag.",
+        "Dead bug — 3 × 8 per sida, vila 45 sek.",
+        "Bird dog — 3 × 8 per sida, vila 45 sek.",
+        "Höftlyft — 3 × 12, vila 45 sek.",
+        "Sidoplanka på knä — 3 × 20 sek per sida, vila 45 sek.",
+        "Tempo: 5 sekunder per repetition. Andas ut i den ansträngande delen."
+      ]
+    },
+    {
+      "id": "2026-09-08",
+      "date": "2026-09-08",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 20,
+      "phase": 1,
+      "steps": [
+        "Spring 20 min utan gångpauser.",
+        "Lugnt tempo.",
+        "Plant underlag, ingen backe."
+      ]
+    },
+    {
+      "id": "2026-09-09",
+      "date": "2026-09-09",
+      "sport": "mobility",
+      "title": "Rörlighetspass",
+      "durationMin": 15,
+      "phase": 1,
+      "steps": [
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-09-10",
+      "date": "2026-09-10",
+      "sport": "rest",
+      "title": "Vila",
+      "durationMin": 0,
+      "phase": 1,
+      "steps": [
+        "Ingen träning.",
+        "Promenad upp till 30 minuter är tillåtet."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-09-11",
+      "date": "2026-09-11",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 22,
+      "phase": 1,
+      "steps": [
+        "Spring 22 min i lugnt tempo.",
+        "Plant underlag."
+      ]
+    },
+    {
+      "id": "2026-09-12",
+      "date": "2026-09-12",
+      "sport": "walk",
+      "title": "Promenad",
+      "durationMin": 45,
+      "phase": 1,
+      "steps": [
+        "Promenad 45 min i rask takt."
+      ]
+    },
+    {
+      "id": "2026-09-13",
+      "date": "2026-09-13",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 1,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-09-14",
+      "date": "2026-09-14",
+      "sport": "strength",
+      "title": "Styrkepass A",
+      "durationMin": 30,
+      "phase": 1,
+      "steps": [
+        "Knäböj, kroppsvikt — 3 × 10, vila 60 sek.",
+        "Split squat, kroppsvikt — 3 × 8 per ben, vila 60 sek.",
+        "Höftlyft — 3 × 12, vila 60 sek.",
+        "Sidoutfall, kroppsvikt — 3 × 8 per ben, vila 60 sek.",
+        "Höftabduktion, sidliggande — 3 × 12 per sida, vila 60 sek.",
+        "Farmer's carry, 10 kg per hand — 2 × 20 meter, vila 60 sek.",
+        "Ingen skivstång i detta pass. Inga vikter över 10 kg."
+      ]
+    },
+    {
+      "id": "2026-09-15",
+      "date": "2026-09-15",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 25,
+      "phase": 1,
+      "steps": [
+        "Spring 25 min i lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-09-16",
+      "date": "2026-09-16",
+      "sport": "strength",
+      "title": "Bålpass + rörlighetspass",
+      "durationMin": 30,
+      "phase": 1,
+      "steps": [
+        "Bålpass (15 min):",
+        "Diafragmaandning, liggande på rygg, hand på magen — 10 andetag.",
+        "Dead bug — 3 × 8 per sida, vila 45 sek.",
+        "Bird dog — 3 × 8 per sida, vila 45 sek.",
+        "Höftlyft — 3 × 12, vila 45 sek.",
+        "Sidoplanka på knä — 3 × 20 sek per sida, vila 45 sek.",
+        "Rörlighetspass (15 min):",
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-09-17",
+      "date": "2026-09-17",
+      "sport": "rest",
+      "title": "Vila",
+      "durationMin": 0,
+      "phase": 1,
+      "steps": [
+        "Ingen träning.",
+        "Promenad upp till 30 minuter är tillåtet."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-09-18",
+      "date": "2026-09-18",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 25,
+      "phase": 1,
+      "steps": [
+        "Spring 25 min i lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-09-19",
+      "date": "2026-09-19",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 40,
+      "phase": 1,
+      "steps": [
+        "Spring 40 min.",
+        "Lugnt tempo hela vägen."
+      ]
+    },
+    {
+      "id": "2026-09-20",
+      "date": "2026-09-20",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 1,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-09-21",
+      "date": "2026-09-21",
+      "sport": "strength",
+      "title": "Styrkepass A",
+      "durationMin": 30,
+      "phase": 2,
+      "steps": [
+        "Knäböj, kroppsvikt — 3 × 10, vila 60 sek.",
+        "Split squat, kroppsvikt — 3 × 8 per ben, vila 60 sek.",
+        "Höftlyft — 3 × 12, vila 60 sek.",
+        "Sidoutfall, kroppsvikt — 3 × 8 per ben, vila 60 sek.",
+        "Höftabduktion, sidliggande — 3 × 12 per sida, vila 60 sek.",
+        "Farmer's carry, 10 kg per hand — 2 × 20 meter, vila 60 sek.",
+        "Ingen skivstång i detta pass. Inga vikter över 10 kg."
+      ]
+    },
+    {
+      "id": "2026-09-22",
+      "date": "2026-09-22",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 30,
+      "phase": 2,
+      "steps": [
+        "Spring 30 min i lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-09-23",
+      "date": "2026-09-23",
+      "sport": "strength",
+      "title": "Bålpass + rörlighetspass",
+      "durationMin": 30,
+      "phase": 2,
+      "steps": [
+        "Bålpass (15 min):",
+        "Diafragmaandning, liggande på rygg, hand på magen — 10 andetag.",
+        "Dead bug — 3 × 8 per sida, vila 45 sek.",
+        "Bird dog — 3 × 8 per sida, vila 45 sek.",
+        "Höftlyft — 3 × 12, vila 45 sek.",
+        "Sidoplanka på knä — 3 × 20 sek per sida, vila 45 sek.",
+        "Rörlighetspass (15 min):",
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-09-24",
+      "date": "2026-09-24",
+      "sport": "rest",
+      "title": "Vila",
+      "durationMin": 0,
+      "phase": 2,
+      "steps": [
+        "Ingen träning.",
+        "Promenad upp till 30 minuter är tillåtet."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-09-25",
+      "date": "2026-09-25",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 25,
+      "phase": 2,
+      "steps": [
+        "Spring 25 min i lugnt tempo.",
+        "Välj en kuperad runda."
+      ]
+    },
+    {
+      "id": "2026-09-26",
+      "date": "2026-09-26",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 50,
+      "phase": 2,
+      "steps": [
+        "Spring 50 min.",
+        "Lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-09-27",
+      "date": "2026-09-27",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 2,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-09-28",
+      "date": "2026-09-28",
+      "sport": "strength",
+      "title": "Styrkepass A",
+      "durationMin": 30,
+      "phase": 2,
+      "steps": [
+        "Knäböj, kroppsvikt — 3 × 10, vila 60 sek.",
+        "Split squat, kroppsvikt — 3 × 8 per ben, vila 60 sek.",
+        "Höftlyft — 3 × 12, vila 60 sek.",
+        "Sidoutfall, kroppsvikt — 3 × 8 per ben, vila 60 sek.",
+        "Höftabduktion, sidliggande — 3 × 12 per sida, vila 60 sek.",
+        "Farmer's carry, 10 kg per hand — 2 × 20 meter, vila 60 sek.",
+        "Ingen skivstång i detta pass. Inga vikter över 10 kg."
+      ]
+    },
+    {
+      "id": "2026-09-29",
+      "date": "2026-09-29",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 30,
+      "phase": 2,
+      "steps": [
+        "Spring 30 min i lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-09-30",
+      "date": "2026-09-30",
+      "sport": "strength",
+      "title": "Bålpass + rörlighetspass",
+      "durationMin": 30,
+      "phase": 2,
+      "steps": [
+        "Bålpass (15 min):",
+        "Diafragmaandning, liggande på rygg, hand på magen — 10 andetag.",
+        "Dead bug — 3 × 8 per sida, vila 45 sek.",
+        "Bird dog — 3 × 8 per sida, vila 45 sek.",
+        "Höftlyft — 3 × 12, vila 45 sek.",
+        "Sidoplanka på knä — 3 × 20 sek per sida, vila 45 sek.",
+        "Rörlighetspass (15 min):",
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-10-01",
+      "date": "2026-10-01",
+      "sport": "rest",
+      "title": "Vila",
+      "durationMin": 0,
+      "phase": 2,
+      "steps": [
+        "Ingen träning.",
+        "Promenad upp till 30 minuter är tillåtet."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-10-02",
+      "date": "2026-10-02",
+      "sport": "running",
+      "title": "Backpass",
+      "durationMin": 30,
+      "phase": 2,
+      "steps": [
+        "10 min uppvärmning i lugnt tempo.",
+        "4 × 30 sek uppför i medeltempo, 30 sek per intervall, gå tillbaka ner på 2 min mellan varje.",
+        "10 min lugn nedvarvning."
+      ]
+    },
+    {
+      "id": "2026-10-03",
+      "date": "2026-10-03",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 60,
+      "phase": 2,
+      "steps": [
+        "Spring 60 min.",
+        "Lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-10-04",
+      "date": "2026-10-04",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 2,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-10-05",
+      "date": "2026-10-05",
+      "sport": "strength",
+      "title": "Styrkepass A",
+      "durationMin": 30,
+      "phase": 2,
+      "steps": [
+        "Knäböj, kroppsvikt — 3 × 10, vila 60 sek.",
+        "Split squat, kroppsvikt — 3 × 8 per ben, vila 60 sek.",
+        "Höftlyft — 3 × 12, vila 60 sek.",
+        "Sidoutfall, kroppsvikt — 3 × 8 per ben, vila 60 sek.",
+        "Höftabduktion, sidliggande — 3 × 12 per sida, vila 60 sek.",
+        "Farmer's carry, 10 kg per hand — 2 × 20 meter, vila 60 sek.",
+        "Ingen skivstång i detta pass. Inga vikter över 10 kg."
+      ]
+    },
+    {
+      "id": "2026-10-06",
+      "date": "2026-10-06",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 35,
+      "phase": 2,
+      "steps": [
+        "Spring 35 min i lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-10-07",
+      "date": "2026-10-07",
+      "sport": "strength",
+      "title": "Bålpass + rörlighetspass",
+      "durationMin": 30,
+      "phase": 2,
+      "steps": [
+        "Bålpass (15 min):",
+        "Diafragmaandning, liggande på rygg, hand på magen — 10 andetag.",
+        "Dead bug — 3 × 8 per sida, vila 45 sek.",
+        "Bird dog — 3 × 8 per sida, vila 45 sek.",
+        "Höftlyft — 3 × 12, vila 45 sek.",
+        "Sidoplanka på knä — 3 × 20 sek per sida, vila 45 sek.",
+        "Rörlighetspass (15 min):",
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-10-08",
+      "date": "2026-10-08",
+      "sport": "rest",
+      "title": "Vila",
+      "durationMin": 0,
+      "phase": 2,
+      "steps": [
+        "Ingen träning.",
+        "Promenad upp till 30 minuter är tillåtet."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-10-09",
+      "date": "2026-10-09",
+      "sport": "running",
+      "title": "Backpass",
+      "durationMin": 35,
+      "phase": 2,
+      "steps": [
+        "10 min uppvärmning i lugnt tempo.",
+        "6 × 45 sek uppför i medeltempo, 45 sek per intervall, gå tillbaka ner på 2 min mellan varje.",
+        "10 min lugn nedvarvning."
+      ]
+    },
+    {
+      "id": "2026-10-10",
+      "date": "2026-10-10",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 70,
+      "phase": 2,
+      "steps": [
+        "Spring 70 min.",
+        "Lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-10-11",
+      "date": "2026-10-11",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 2,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-10-12",
+      "date": "2026-10-12",
+      "sport": "strength",
+      "title": "Styrkepass A, 2 set av varje övning",
+      "durationMin": 20,
+      "phase": 2,
+      "steps": [
+        "Knäböj, kroppsvikt — 2 × 10, vila 60 sek.",
+        "Split squat, kroppsvikt — 2 × 8 per ben, vila 60 sek.",
+        "Höftlyft — 2 × 12, vila 60 sek.",
+        "Sidoutfall, kroppsvikt — 2 × 8 per ben, vila 60 sek.",
+        "Höftabduktion, sidliggande — 2 × 12 per sida, vila 60 sek.",
+        "Farmer's carry, 10 kg per hand — 2 × 20 meter, vila 60 sek.",
+        "Ingen skivstång i detta pass. Inga vikter över 10 kg."
+      ]
+    },
+    {
+      "id": "2026-10-13",
+      "date": "2026-10-13",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 25,
+      "phase": 2,
+      "steps": [
+        "Spring 25 min i lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-10-14",
+      "date": "2026-10-14",
+      "sport": "mobility",
+      "title": "Rörlighetspass",
+      "durationMin": 15,
+      "phase": 2,
+      "steps": [
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-10-15",
+      "date": "2026-10-15",
+      "sport": "rest",
+      "title": "Vila",
+      "durationMin": 0,
+      "phase": 2,
+      "steps": [
+        "Ingen träning.",
+        "Promenad upp till 30 minuter är tillåtet."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-10-16",
+      "date": "2026-10-16",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 25,
+      "phase": 2,
+      "steps": [
+        "Spring 25 min i lugnt tempo.",
+        "Inga backar."
+      ]
+    },
+    {
+      "id": "2026-10-17",
+      "date": "2026-10-17",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 45,
+      "phase": 2,
+      "steps": [
+        "Spring 45 min.",
+        "Lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-10-18",
+      "date": "2026-10-18",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 2,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-10-19",
+      "date": "2026-10-19",
+      "sport": "strength",
+      "title": "Styrkepass B",
+      "durationMin": 40,
+      "phase": 3,
+      "steps": [
+        "Börja med tom stång i knäböj och marklyft.",
+        "Knäböj med skivstång — 3 × 8, vila 90 sek.",
+        "Rumänsk marklyft med skivstång — 3 × 8, vila 90 sek.",
+        "Bulgarisk split squat, hantlar — 3 × 8 per ben, vila 90 sek.",
+        "Höftabduktion med gummiband, stående — 3 × 15 per sida, vila 60 sek.",
+        "Farmer's carry, 20 kg per hand — 3 × 20 meter, vila 90 sek.",
+        "Följ regel 5 för vikt. Inga maxlyft. Avbryt setet om du behöver hålla andan."
+      ]
+    },
+    {
+      "id": "2026-10-20",
+      "date": "2026-10-20",
+      "sport": "ice-skate",
+      "title": "Skridskopass",
+      "durationMin": 30,
+      "phase": 3,
+      "steps": [
+        "Åkning på is i lugnt tempo, långa skär, hela passet."
+      ],
+      "tips": [
+        "Inga tvära stopp. Ingen sprint. Ingen kontakt. Ingen puck. Åk ensam eller med någon som vet att det gäller."
+      ]
+    },
+    {
+      "id": "2026-10-21",
+      "date": "2026-10-21",
+      "sport": "strength",
+      "title": "Bålpass + rörlighetspass",
+      "durationMin": 30,
+      "phase": 3,
+      "steps": [
+        "Bålpass (15 min):",
+        "Diafragmaandning, liggande på rygg, hand på magen — 10 andetag.",
+        "Dead bug — 3 × 8 per sida, vila 45 sek.",
+        "Bird dog — 3 × 8 per sida, vila 45 sek.",
+        "Höftlyft — 3 × 12, vila 45 sek.",
+        "Sidoplanka på knä — 3 × 20 sek per sida, vila 45 sek.",
+        "Rörlighetspass (15 min):",
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-10-22",
+      "date": "2026-10-22",
+      "sport": "rest",
+      "title": "Vila",
+      "durationMin": 0,
+      "phase": 3,
+      "steps": [
+        "Ingen träning.",
+        "Promenad upp till 30 minuter är tillåtet."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-10-23",
+      "date": "2026-10-23",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 35,
+      "phase": 3,
+      "steps": [
+        "Spring 35 min i lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-10-24",
+      "date": "2026-10-24",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 70,
+      "phase": 3,
+      "steps": [
+        "Spring 70 min.",
+        "Lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-10-25",
+      "date": "2026-10-25",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 3,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen.",
+        "Extra noga efter första skivstångsveckan."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-10-26",
+      "date": "2026-10-26",
+      "sport": "strength",
+      "title": "Styrkepass B",
+      "durationMin": 40,
+      "phase": 3,
+      "steps": [
+        "Knäböj med skivstång — 3 × 8, vila 90 sek.",
+        "Rumänsk marklyft med skivstång — 3 × 8, vila 90 sek.",
+        "Bulgarisk split squat, hantlar — 3 × 8 per ben, vila 90 sek.",
+        "Höftabduktion med gummiband, stående — 3 × 15 per sida, vila 60 sek.",
+        "Farmer's carry, 20 kg per hand — 3 × 20 meter, vila 90 sek.",
+        "Följ regel 5 för vikt. Inga maxlyft. Avbryt setet om du behöver hålla andan."
+      ]
+    },
+    {
+      "id": "2026-10-27",
+      "date": "2026-10-27",
+      "sport": "ice-skate",
+      "title": "Skridskopass",
+      "durationMin": 40,
+      "phase": 3,
+      "steps": [
+        "Åkning på is i lugnt tempo, långa skär, hela passet."
+      ],
+      "tips": [
+        "Inga tvära stopp. Ingen sprint. Ingen kontakt. Ingen puck. Åk ensam eller med någon som vet att det gäller."
+      ]
+    },
+    {
+      "id": "2026-10-28",
+      "date": "2026-10-28",
+      "sport": "strength",
+      "title": "Bålpass + rörlighetspass",
+      "durationMin": 30,
+      "phase": 3,
+      "steps": [
+        "Bålpass (15 min):",
+        "Diafragmaandning, liggande på rygg, hand på magen — 10 andetag.",
+        "Dead bug — 3 × 8 per sida, vila 45 sek.",
+        "Bird dog — 3 × 8 per sida, vila 45 sek.",
+        "Höftlyft — 3 × 12, vila 45 sek.",
+        "Sidoplanka på knä — 3 × 20 sek per sida, vila 45 sek.",
+        "Rörlighetspass (15 min):",
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-10-29",
+      "date": "2026-10-29",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 30,
+      "phase": 3,
+      "steps": [
+        "Spring 30 min i lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-10-30",
+      "date": "2026-10-30",
+      "sport": "running",
+      "title": "Backpass",
+      "durationMin": 35,
+      "phase": 3,
+      "steps": [
+        "10 min uppvärmning i lugnt tempo.",
+        "6 × 45 sek uppför i medeltempo, 45 sek per intervall, gå tillbaka ner på 2 min mellan varje.",
+        "10 min lugn nedvarvning."
+      ]
+    },
+    {
+      "id": "2026-10-31",
+      "date": "2026-10-31",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 80,
+      "phase": 3,
+      "steps": [
+        "Spring 80 min.",
+        "Lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-11-01",
+      "date": "2026-11-01",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 3,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-11-02",
+      "date": "2026-11-02",
+      "sport": "strength",
+      "title": "Styrkepass B",
+      "durationMin": 40,
+      "phase": 3,
+      "steps": [
+        "Knäböj med skivstång — 3 × 8, vila 90 sek.",
+        "Rumänsk marklyft med skivstång — 3 × 8, vila 90 sek.",
+        "Bulgarisk split squat, hantlar — 3 × 8 per ben, vila 90 sek.",
+        "Höftabduktion med gummiband, stående — 3 × 15 per sida, vila 60 sek.",
+        "Farmer's carry, 20 kg per hand — 3 × 20 meter, vila 90 sek.",
+        "Följ regel 5 för vikt. Inga maxlyft. Avbryt setet om du behöver hålla andan."
+      ]
+    },
+    {
+      "id": "2026-11-03",
+      "date": "2026-11-03",
+      "sport": "ice-skate",
+      "title": "Skridskopass",
+      "durationMin": 45,
+      "phase": 3,
+      "steps": [
+        "Åkning på is i lugnt tempo, långa skär, hela passet.",
+        "Lägg in 6 × 1 min i medeltempo."
+      ],
+      "tips": [
+        "Inga tvära stopp. Ingen sprint. Ingen kontakt. Ingen puck. Åk ensam eller med någon som vet att det gäller."
+      ]
+    },
+    {
+      "id": "2026-11-04",
+      "date": "2026-11-04",
+      "sport": "strength",
+      "title": "Bålpass + rörlighetspass",
+      "durationMin": 30,
+      "phase": 3,
+      "steps": [
+        "Bålpass (15 min):",
+        "Diafragmaandning, liggande på rygg, hand på magen — 10 andetag.",
+        "Dead bug — 3 × 8 per sida, vila 45 sek.",
+        "Bird dog — 3 × 8 per sida, vila 45 sek.",
+        "Höftlyft — 3 × 12, vila 45 sek.",
+        "Sidoplanka på knä — 3 × 20 sek per sida, vila 45 sek.",
+        "Rörlighetspass (15 min):",
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-11-05",
+      "date": "2026-11-05",
+      "sport": "rest",
+      "title": "Vila",
+      "durationMin": 0,
+      "phase": 3,
+      "steps": [
+        "Ingen träning.",
+        "Promenad upp till 30 minuter är tillåtet."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-11-06",
+      "date": "2026-11-06",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 35,
+      "phase": 3,
+      "steps": [
+        "10 min lugnt tempo.",
+        "15 min medeltempo.",
+        "10 min lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-11-07",
+      "date": "2026-11-07",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 90,
+      "phase": 3,
+      "steps": [
+        "Spring 90 min.",
+        "Lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-11-08",
+      "date": "2026-11-08",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 3,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-11-09",
+      "date": "2026-11-09",
+      "sport": "strength",
+      "title": "Styrkepass B, 2 set av varje övning",
+      "durationMin": 25,
+      "phase": 3,
+      "steps": [
+        "Knäböj med skivstång — 2 × 8, vila 90 sek.",
+        "Rumänsk marklyft med skivstång — 2 × 8, vila 90 sek.",
+        "Bulgarisk split squat, hantlar — 2 × 8 per ben, vila 90 sek.",
+        "Höftabduktion med gummiband, stående — 2 × 15 per sida, vila 60 sek.",
+        "Farmer's carry, 20 kg per hand — 2 × 20 meter, vila 90 sek.",
+        "Följ regel 5 för vikt. Inga maxlyft. Avbryt setet om du behöver hålla andan."
+      ]
+    },
+    {
+      "id": "2026-11-10",
+      "date": "2026-11-10",
+      "sport": "ice-skate",
+      "title": "Skridskopass",
+      "durationMin": 30,
+      "phase": 3,
+      "steps": [
+        "Åkning på is i lugnt tempo, långa skär, hela passet."
+      ],
+      "tips": [
+        "Inga tvära stopp. Ingen sprint. Ingen kontakt. Ingen puck. Åk ensam eller med någon som vet att det gäller."
+      ]
+    },
+    {
+      "id": "2026-11-11",
+      "date": "2026-11-11",
+      "sport": "mobility",
+      "title": "Rörlighetspass",
+      "durationMin": 15,
+      "phase": 3,
+      "steps": [
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-11-12",
+      "date": "2026-11-12",
+      "sport": "rest",
+      "title": "Vila",
+      "durationMin": 0,
+      "phase": 3,
+      "steps": [
+        "Ingen träning.",
+        "Promenad upp till 30 minuter är tillåtet."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-11-13",
+      "date": "2026-11-13",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 30,
+      "phase": 3,
+      "steps": [
+        "Spring 30 min i lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-11-14",
+      "date": "2026-11-14",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 60,
+      "phase": 3,
+      "steps": [
+        "Spring 60 min.",
+        "Lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-11-15",
+      "date": "2026-11-15",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 3,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-11-16",
+      "date": "2026-11-16",
+      "sport": "strength",
+      "title": "Styrkepass C",
+      "durationMin": 45,
+      "phase": 4,
+      "steps": [
+        "Knäböj med skivstång — 4 × 6, vila 2 min.",
+        "Rumänsk marklyft med skivstång — 3 × 8, vila 2 min.",
+        "Enbensknäböj ner till pall — 3 × 6 per ben, vila 90 sek.",
+        "Sidohopp, landa mjukt på ett ben — 4 × 6 per sida, vila 90 sek.",
+        "Farmer's carry, 24 kg per hand — 3 × 30 meter, vila 90 sek.",
+        "Maxlyft är fortfarande inte tillåtet. Högsta vikt: 80 % av det du klarade före operationen."
+      ]
+    },
+    {
+      "id": "2026-11-17",
+      "date": "2026-11-17",
+      "sport": "ice-skate",
+      "title": "Skridskopass",
+      "durationMin": 45,
+      "phase": 4,
+      "steps": [
+        "Åkning på is i lugnt tempo, långa skär, hela passet."
+      ],
+      "tips": [
+        "Inga tvära stopp. Ingen sprint. Ingen kontakt. Ingen puck. Åk ensam eller med någon som vet att det gäller."
+      ]
+    },
+    {
+      "id": "2026-11-18",
+      "date": "2026-11-18",
+      "sport": "strength",
+      "title": "Bålpass + rörlighetspass",
+      "durationMin": 30,
+      "phase": 4,
+      "steps": [
+        "Bålpass (15 min):",
+        "Diafragmaandning, liggande på rygg, hand på magen — 10 andetag.",
+        "Dead bug — 3 × 8 per sida, vila 45 sek.",
+        "Bird dog — 3 × 8 per sida, vila 45 sek.",
+        "Höftlyft — 3 × 12, vila 45 sek.",
+        "Sidoplanka på knä — 3 × 20 sek per sida, vila 45 sek.",
+        "Rörlighetspass (15 min):",
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-11-19",
+      "date": "2026-11-19",
+      "sport": "rest",
+      "title": "Vila",
+      "durationMin": 0,
+      "phase": 4,
+      "steps": [
+        "Ingen träning.",
+        "Promenad upp till 30 minuter är tillåtet."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-11-20",
+      "date": "2026-11-20",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 40,
+      "phase": 4,
+      "steps": [
+        "Spring 40 min i lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-11-21",
+      "date": "2026-11-21",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 100,
+      "phase": 4,
+      "steps": [
+        "Spring 100 min.",
+        "Lugnt tempo.",
+        "Ta med dryck."
+      ]
+    },
+    {
+      "id": "2026-11-22",
+      "date": "2026-11-22",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 4,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-11-23",
+      "date": "2026-11-23",
+      "sport": "strength",
+      "title": "Styrkepass C",
+      "durationMin": 45,
+      "phase": 4,
+      "steps": [
+        "Knäböj med skivstång — 4 × 6, vila 2 min.",
+        "Rumänsk marklyft med skivstång — 3 × 8, vila 2 min.",
+        "Enbensknäböj ner till pall — 3 × 6 per ben, vila 90 sek.",
+        "Sidohopp, landa mjukt på ett ben — 4 × 6 per sida, vila 90 sek.",
+        "Farmer's carry, 24 kg per hand — 3 × 30 meter, vila 90 sek.",
+        "Maxlyft är fortfarande inte tillåtet. Högsta vikt: 80 % av det du klarade före operationen."
+      ]
+    },
+    {
+      "id": "2026-11-24",
+      "date": "2026-11-24",
+      "sport": "ice-skate",
+      "title": "Skridskopass",
+      "durationMin": 50,
+      "phase": 4,
+      "steps": [
+        "Åkning på is i lugnt tempo, långa skär, hela passet."
+      ],
+      "tips": [
+        "Inga tvära stopp. Ingen sprint. Ingen kontakt. Ingen puck. Åk ensam eller med någon som vet att det gäller."
+      ]
+    },
+    {
+      "id": "2026-11-25",
+      "date": "2026-11-25",
+      "sport": "strength",
+      "title": "Bålpass + rörlighetspass",
+      "durationMin": 30,
+      "phase": 4,
+      "steps": [
+        "Bålpass (15 min):",
+        "Diafragmaandning, liggande på rygg, hand på magen — 10 andetag.",
+        "Dead bug — 3 × 8 per sida, vila 45 sek.",
+        "Bird dog — 3 × 8 per sida, vila 45 sek.",
+        "Höftlyft — 3 × 12, vila 45 sek.",
+        "Sidoplanka på knä — 3 × 20 sek per sida, vila 45 sek.",
+        "Rörlighetspass (15 min):",
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-11-26",
+      "date": "2026-11-26",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 30,
+      "phase": 4,
+      "steps": [
+        "Spring 30 min i lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-11-27",
+      "date": "2026-11-27",
+      "sport": "running",
+      "title": "Backpass",
+      "durationMin": 40,
+      "phase": 4,
+      "steps": [
+        "10 min uppvärmning i lugnt tempo.",
+        "8 × 45 sek uppför i medeltempo, 45 sek per intervall, gå tillbaka ner på 2 min mellan varje.",
+        "10 min lugn nedvarvning."
+      ]
+    },
+    {
+      "id": "2026-11-28",
+      "date": "2026-11-28",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 110,
+      "phase": 4,
+      "steps": [
+        "Spring 110 min.",
+        "Lugnt tempo.",
+        "Ta med dryck."
+      ]
+    },
+    {
+      "id": "2026-11-29",
+      "date": "2026-11-29",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 4,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-11-30",
+      "date": "2026-11-30",
+      "sport": "strength",
+      "title": "Styrkepass C",
+      "durationMin": 45,
+      "phase": 4,
+      "steps": [
+        "Knäböj med skivstång — 4 × 6, vila 2 min.",
+        "Rumänsk marklyft med skivstång — 3 × 8, vila 2 min.",
+        "Enbensknäböj ner till pall — 3 × 6 per ben, vila 90 sek.",
+        "Sidohopp, landa mjukt på ett ben — 4 × 6 per sida, vila 90 sek.",
+        "Farmer's carry, 24 kg per hand — 3 × 30 meter, vila 90 sek.",
+        "Maxlyft är fortfarande inte tillåtet. Högsta vikt: 80 % av det du klarade före operationen."
+      ]
+    },
+    {
+      "id": "2026-12-01",
+      "date": "2026-12-01",
+      "sport": "ice-skate",
+      "title": "Skridskopass",
+      "durationMin": 50,
+      "phase": 4,
+      "steps": [
+        "Åkning på is i lugnt tempo, långa skär, hela passet."
+      ],
+      "tips": [
+        "Inga tvära stopp. Ingen sprint. Ingen kontakt. Ingen puck. Åk ensam eller med någon som vet att det gäller."
+      ]
+    },
+    {
+      "id": "2026-12-02",
+      "date": "2026-12-02",
+      "sport": "strength",
+      "title": "Bålpass + rörlighetspass",
+      "durationMin": 30,
+      "phase": 4,
+      "steps": [
+        "Bålpass (15 min):",
+        "Diafragmaandning, liggande på rygg, hand på magen — 10 andetag.",
+        "Dead bug — 3 × 8 per sida, vila 45 sek.",
+        "Bird dog — 3 × 8 per sida, vila 45 sek.",
+        "Höftlyft — 3 × 12, vila 45 sek.",
+        "Sidoplanka på knä — 3 × 20 sek per sida, vila 45 sek.",
+        "Rörlighetspass (15 min):",
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-12-03",
+      "date": "2026-12-03",
+      "sport": "rest",
+      "title": "Vila",
+      "durationMin": 0,
+      "phase": 4,
+      "steps": [
+        "Ingen träning.",
+        "Promenad upp till 30 minuter är tillåtet."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-12-04",
+      "date": "2026-12-04",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 40,
+      "phase": 4,
+      "steps": [
+        "10 min lugnt tempo.",
+        "20 min medeltempo.",
+        "10 min lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-12-05",
+      "date": "2026-12-05",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 120,
+      "phase": 4,
+      "steps": [
+        "Spring 120 min.",
+        "Lugnt tempo.",
+        "Ta med dryck och något att äta."
+      ]
+    },
+    {
+      "id": "2026-12-06",
+      "date": "2026-12-06",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 4,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-12-07",
+      "date": "2026-12-07",
+      "sport": "strength",
+      "title": "Styrkepass C, 2 set av varje övning",
+      "durationMin": 30,
+      "phase": 4,
+      "steps": [
+        "Knäböj med skivstång — 2 × 6, vila 2 min.",
+        "Rumänsk marklyft med skivstång — 2 × 8, vila 2 min.",
+        "Enbensknäböj ner till pall — 2 × 6 per ben, vila 90 sek.",
+        "Sidohopp, landa mjukt på ett ben — 2 × 6 per sida, vila 90 sek.",
+        "Farmer's carry, 24 kg per hand — 2 × 30 meter, vila 90 sek.",
+        "Maxlyft är fortfarande inte tillåtet. Högsta vikt: 80 % av det du klarade före operationen."
+      ]
+    },
+    {
+      "id": "2026-12-08",
+      "date": "2026-12-08",
+      "sport": "ice-skate",
+      "title": "Skridskopass",
+      "durationMin": 40,
+      "phase": 4,
+      "steps": [
+        "Åkning på is i lugnt tempo, långa skär, hela passet."
+      ],
+      "tips": [
+        "Inga tvära stopp. Ingen sprint. Ingen kontakt. Ingen puck. Åk ensam eller med någon som vet att det gäller."
+      ]
+    },
+    {
+      "id": "2026-12-09",
+      "date": "2026-12-09",
+      "sport": "mobility",
+      "title": "Rörlighetspass",
+      "durationMin": 15,
+      "phase": 4,
+      "steps": [
+        "Katt–kamel — 10 varv.",
+        "Höftlyft — 10 st.",
+        "Knästående höftböjarstretch — 1,5 min per sida.",
+        "90/90-sittande, luta framåt — 1,5 min per sida.",
+        "Open book, sidliggande — 10 per sida.",
+        "Knästående rotation — 10 per sida.",
+        "Thread the needle — 8 per sida.",
+        "Rotationerna ska kännas i ryggen, aldrig i magen eller vid ärret."
+      ]
+    },
+    {
+      "id": "2026-12-10",
+      "date": "2026-12-10",
+      "sport": "rest",
+      "title": "Vila",
+      "durationMin": 0,
+      "phase": 4,
+      "steps": [
+        "Ingen träning.",
+        "Promenad upp till 30 minuter är tillåtet."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-12-11",
+      "date": "2026-12-11",
+      "sport": "running",
+      "title": "Löpning",
+      "durationMin": 30,
+      "phase": 4,
+      "steps": [
+        "Spring 30 min i lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-12-12",
+      "date": "2026-12-12",
+      "sport": "running",
+      "title": "Långpass löpning",
+      "durationMin": 90,
+      "phase": 4,
+      "steps": [
+        "Spring 90 min.",
+        "Lugnt tempo."
+      ]
+    },
+    {
+      "id": "2026-12-13",
+      "date": "2026-12-13",
+      "sport": "rest",
+      "title": "Vila — ärrkontroll",
+      "durationMin": 0,
+      "phase": 4,
+      "steps": [
+        "Ingen träning.",
+        "Gör ärrkontrollen: stå framför en spegel, spänn magen och hosta en gång, känn längs hela ärret uppifrån och ner. Leta efter en bula eller buktning som inte fanns förra söndagen.",
+        "Boka tid hos kirurgen inför vinterblocket."
+      ],
+      "rest": true
+    },
+    {
+      "id": "2026-12-15",
+      "date": "2026-12-15",
+      "sport": "cycling",
+      "title": "Cykelintervaller 5 × 5 min",
+      "durationMin": 70,
+      "intensity": "Hårt",
+      "phase": 5,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "5 × 5 min i hårt tempo (högt motstånd eller motlut), med 2 min lugn trampning emellan. Jämn effekt: sista intervallen ska kännas lika hård som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 10 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-16",
+      "date": "2026-12-16",
+      "sport": "cycling",
+      "title": "Cykling",
+      "durationMin": 60,
+      "phase": 5,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h."
+      ],
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-17",
+      "date": "2026-12-17",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-19",
+      "date": "2026-12-19",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 150,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 5,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 2 h 30 min i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2026-12-20",
+      "date": "2026-12-20",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "1 h jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2026-12-22",
+      "date": "2026-12-22",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer – intervaller 3 × 10 min",
+      "durationMin": 75,
+      "intensity": "Tröskel",
+      "phase": 5,
+      "steps": [
+        "15–20 min lugn uppvärmning med stigande motstånd.",
+        "3 × 10 min i hårt tempo med högt motstånd, med 3 min lugnt emellan. Jämn fart: sista intervallen ska gå lika hårt som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 15 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-23",
+      "date": "2026-12-23",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-24",
+      "date": "2026-12-24",
+      "sport": "cycling",
+      "title": "Cykling",
+      "durationMin": 75,
+      "phase": 5,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h 15 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-26",
+      "date": "2026-12-26",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 165,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 5,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 2 h 45 min i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2026-12-27",
+      "date": "2026-12-27",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "1 h jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2026-12-29",
+      "date": "2026-12-29",
+      "sport": "cycling",
+      "title": "Cykelintervaller 4 × 8 min",
+      "durationMin": 80,
+      "intensity": "Tröskel",
+      "phase": 5,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "4 × 8 min i hårt tempo (högt motstånd eller motlut), med 2 min lugn trampning emellan. Jämn effekt: sista intervallen ska kännas lika hård som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 20 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-30",
+      "date": "2026-12-30",
+      "sport": "cycling",
+      "title": "Cykling",
+      "durationMin": 60,
+      "phase": 5,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h."
+      ],
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2026-12-31",
+      "date": "2026-12-31",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 90,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h 30 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-02",
+      "date": "2027-01-02",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 180,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 5,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 3 h i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-01-03",
+      "date": "2027-01-03",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "1 h jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-01-05",
+      "date": "2027-01-05",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer – intervaller 6 × 3 min",
+      "durationMin": 60,
+      "intensity": "Hårt",
+      "phase": 5,
+      "steps": [
+        "15–20 min lugn uppvärmning med stigande motstånd.",
+        "6 × 3 min i hårt tempo med högt motstånd, med 2 min lugnt emellan. Jämn fart: sista intervallen ska gå lika hårt som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h."
+      ],
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-06",
+      "date": "2027-01-06",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 45,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 45 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-07",
+      "date": "2027-01-07",
+      "sport": "cycling",
+      "title": "Cykling",
+      "durationMin": 45,
+      "phase": 5,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 45 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-09",
+      "date": "2027-01-09",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 120,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 5,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 2 h i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-01-10",
+      "date": "2027-01-10",
+      "sport": "skate-ski",
+      "title": "Skejt – teknik och balans",
+      "durationMin": 60,
+      "intensity": "Lugnt",
+      "phase": 5,
+      "steps": [
+        "10 min lugn åkning i dubbeldans.",
+        "Balans: 4 × 1 min utan stavar, gärna i ett lätt utför.",
+        "Paddling i motlut: 4 × 1 min. Fokus på höga höfter och ett lugnt, långt frånskjut.",
+        "6 × 30 sek i loppfart på flackt med 1 min lugnt emellan.",
+        "Lugn distans resten av tiden, totalt 1 h."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-01-12",
+      "date": "2027-01-12",
+      "sport": "cycling",
+      "title": "Cykelintervaller 3 × 12 min",
+      "durationMin": 85,
+      "intensity": "Tröskel",
+      "phase": 5,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "3 × 12 min i hårt tempo (högt motstånd eller motlut), med 3 min lugn trampning emellan. Jämn effekt: sista intervallen ska kännas lika hård som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 25 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-13",
+      "date": "2027-01-13",
+      "sport": "cycling",
+      "title": "Cykling",
+      "durationMin": 60,
+      "phase": 5,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h."
+      ],
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-14",
+      "date": "2027-01-14",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 90,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h 30 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-16",
+      "date": "2027-01-16",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 195,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 5,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 3 h 15 min i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-01-17",
+      "date": "2027-01-17",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "1 h jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-01-19",
+      "date": "2027-01-19",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer – intervaller 5 × 6 min",
+      "durationMin": 80,
+      "intensity": "Hårt",
+      "phase": 5,
+      "steps": [
+        "15–20 min lugn uppvärmning med stigande motstånd.",
+        "5 × 6 min i hårt tempo med högt motstånd, med 2 min lugnt emellan. Jämn fart: sista intervallen ska gå lika hårt som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 20 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-20",
+      "date": "2027-01-20",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-21",
+      "date": "2027-01-21",
+      "sport": "cycling",
+      "title": "Cykling",
+      "durationMin": 75,
+      "phase": 5,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h 15 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-23",
+      "date": "2027-01-23",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 210,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 5,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 3 h 30 min i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-01-24",
+      "date": "2027-01-24",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 80,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "1 h 5 min jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-01-26",
+      "date": "2027-01-26",
+      "sport": "cycling",
+      "title": "Cykelintervaller 2 × 20 min",
+      "durationMin": 90,
+      "intensity": "Tröskel",
+      "phase": 5,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "2 × 20 min i hårt tempo (högt motstånd eller motlut), med 4 min lugn trampning emellan. Jämn effekt: sista intervallen ska kännas lika hård som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 30 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-27",
+      "date": "2027-01-27",
+      "sport": "cycling",
+      "title": "Cykling",
+      "durationMin": 60,
+      "phase": 5,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h."
+      ],
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-28",
+      "date": "2027-01-28",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 90,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h 30 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-01-30",
+      "date": "2027-01-30",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 240,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 5,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 4 h i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-01-31",
+      "date": "2027-01-31",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "1 h jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-02-02",
+      "date": "2027-02-02",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer – intervaller 6 × 3 min",
+      "durationMin": 60,
+      "intensity": "Hårt",
+      "phase": 5,
+      "steps": [
+        "15–20 min lugn uppvärmning med stigande motstånd.",
+        "6 × 3 min i hårt tempo med högt motstånd, med 2 min lugnt emellan. Jämn fart: sista intervallen ska gå lika hårt som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h."
+      ],
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-03",
+      "date": "2027-02-03",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 45,
+      "intensity": "Lugnt, zon 2",
+      "phase": 5,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 45 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-04",
+      "date": "2027-02-04",
+      "sport": "cycling",
+      "title": "Cykling",
+      "durationMin": 45,
+      "phase": 5,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 45 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-06",
+      "date": "2027-02-06",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 150,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 5,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 2 h 30 min i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-02-07",
+      "date": "2027-02-07",
+      "sport": "skate-ski",
+      "title": "Skejt – teknik och balans",
+      "durationMin": 60,
+      "intensity": "Lugnt",
+      "phase": 5,
+      "steps": [
+        "10 min lugn åkning i dubbeldans.",
+        "Balans: 4 × 1 min utan stavar, gärna i ett lätt utför.",
+        "Paddling i motlut: 4 × 1 min. Fokus på höga höfter och ett lugnt, långt frånskjut.",
+        "6 × 30 sek i loppfart på flackt med 1 min lugnt emellan.",
+        "Lugn distans resten av tiden, totalt 1 h."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-02-09",
+      "date": "2027-02-09",
+      "sport": "cycling",
+      "title": "Cykelintervaller 3 × 15 min i loppfart",
+      "durationMin": 85,
+      "intensity": "Tröskel",
+      "phase": 6,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "3 × 15 min i loppfart i hårt tempo (högt motstånd eller motlut), med 3 min lugn trampning emellan. Jämn effekt: sista intervallen ska kännas lika hård som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 25 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-10",
+      "date": "2027-02-10",
+      "sport": "cycling",
+      "title": "Cykling",
+      "durationMin": 60,
+      "phase": 6,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h."
+      ],
+      "strength": {
+        "title": "Styrka C – underhåll",
+        "durationMin": 20,
+        "items": [
+          "Utfallsknäböj 2 × 8 per ben.",
+          "Copenhagen-planka 2 × 20 sek per sida.",
+          "Pallof press 2 × 10 per sida.",
+          "Planka 2 × 45 sek.",
+          "Skejthopp i sidled 2 × 10 per sida.",
+          "Dips eller smala armhävningar 2 × 10."
+        ],
+        "note": "Lägg den efter ett lugnt pass, inte dagen före intervaller."
+      },
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-11",
+      "date": "2027-02-11",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 75,
+      "intensity": "Lugnt, zon 2",
+      "phase": 6,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h 15 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-13",
+      "date": "2027-02-13",
+      "sport": "skate-ski",
+      "title": "Genrep – 5 timmar",
+      "durationMin": 300,
+      "intensity": "Lugnt till loppfart",
+      "phase": 6,
+      "steps": [
+        "Åk 5 timmar, gärna ungefär 60 km, i den fart du tänker hålla i Öppet Spår.",
+        "Använd exakt de skidor, den valla, de kläder och den mat du ska ha i loppet.",
+        "Ät och drick var 30–45 min, som om varje halvtimme vore en kontroll.",
+        "Notera hur långt du kommer per timme. Det blir din grund för loppets tidsplan och reptiderna."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-02-14",
+      "date": "2027-02-14",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 6,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "45 min jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-02-16",
+      "date": "2027-02-16",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer – intervaller 4 × 5 min",
+      "durationMin": 70,
+      "intensity": "Hårt",
+      "phase": 6,
+      "steps": [
+        "15–20 min lugn uppvärmning med stigande motstånd.",
+        "4 × 5 min i hårt tempo med högt motstånd, med 2 min lugnt emellan. Jämn fart: sista intervallen ska gå lika hårt som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 1 h 10 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-17",
+      "date": "2027-02-17",
+      "sport": "crosstrainer",
+      "title": "Crosstrainer",
+      "durationMin": 50,
+      "intensity": "Lugnt, zon 2",
+      "phase": 6,
+      "steps": [
+        "Kör lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 50 min.",
+        "Variera gärna motstånd eller lutning med jämna mellanrum."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-18",
+      "date": "2027-02-18",
+      "sport": "cycling",
+      "title": "Cykling",
+      "durationMin": 60,
+      "phase": 6,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 1 h."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-20",
+      "date": "2027-02-20",
+      "sport": "skate-ski",
+      "title": "Långpass skejt",
+      "durationMin": 150,
+      "intensity": "Lugnt, zon 1–2",
+      "phase": 6,
+      "steps": [
+        "Starta lugnt, de första 20 minuterna ska kännas nästan för lätta.",
+        "Åk 2 h 30 min i jämn, lugn fart. Lägg slingan så att du passerar bilen eller ett fik för påfyllning.",
+        "Ät och drick var 30–45 min. Använd samma typ av energi som du tänker ha i loppet."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Öva på att äta och dricka i rörelse. På 90 km kommer det att avgöra mer än konditionen.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-02-21",
+      "date": "2027-02-21",
+      "sport": "skate-ski",
+      "title": "Skejt – lugn distans",
+      "durationMin": 60,
+      "intensity": "Lugnt, zon 2",
+      "phase": 6,
+      "steps": [
+        "10 min lugn uppvärmning.",
+        "45 min jämn, lugn åkning. Välj teknik efter terrängen: dubbeldans på flackt, paddling i backar.",
+        "5 min lugnt avslut och stretch av höftböjare och vader."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-02-23",
+      "date": "2027-02-23",
+      "sport": "skate-ski",
+      "title": "Skejt – intervaller 4 × 3 min i loppfart",
+      "durationMin": 50,
+      "intensity": "Tröskel, zon 4",
+      "phase": 6,
+      "steps": [
+        "15–20 min lugn uppvärmning med 3–4 korta stegringar.",
+        "4 × 3 min i loppfart i lätt motlut, med 2 min lugn åkning emellan. Jämn fart: sista intervallen ska gå lika fort som första.",
+        "Lugn nedvarvning tills passet är totalt cirka 50 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Har du dålig sömn, förkylning eller tunga ben: gör passet lugnt i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-02-24",
+      "date": "2027-02-24",
+      "sport": "cycling",
+      "title": "Cykling",
+      "durationMin": 40,
+      "phase": 6,
+      "steps": [
+        "Cykla lugnt de första 10 minuterna.",
+        "Håll jämn, lugn ansträngning resten av passet, totalt 40 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-25",
+      "date": "2027-02-25",
+      "sport": "skate-ski",
+      "title": "Skejt – teknik och balans",
+      "durationMin": 40,
+      "intensity": "Lugnt",
+      "phase": 6,
+      "steps": [
+        "10 min lugn åkning i dubbeldans.",
+        "Balans: 4 × 1 min utan stavar, gärna i ett lätt utför.",
+        "Paddling i motlut: 4 × 1 min. Fokus på höga höfter och ett lugnt, långt frånskjut.",
+        "6 × 30 sek i loppfart på flackt med 1 min lugnt emellan.",
+        "Lugn distans resten av tiden, totalt 40 min."
+      ],
+      "strength": null,
+      "tips": [
+        "Ingen snö där du är? Kör passet som löpning eller cykling i stället.",
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ],
+      "snowFallback": true
+    },
+    {
+      "id": "2027-02-27",
+      "date": "2027-02-27",
+      "sport": "skate-ski",
+      "title": "Lätt åkning och utrustningskoll",
+      "durationMin": 30,
+      "intensity": "Lugnt",
+      "phase": 6,
+      "steps": [
+        "30 min lugn åkning, gärna på loppskidorna.",
+        "Testa glid och kläder i den temperatur som är utlovad.",
+        "Packa allt du ska ha och lägg fram det."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-02-28",
+      "date": "2027-02-28",
+      "sport": "skate-ski",
+      "title": "Aktivering",
+      "durationMin": 20,
+      "intensity": "Lugnt + några korta ryck",
+      "phase": 6,
+      "steps": [
+        "15 min mycket lugn åkning eller jogg.",
+        "3 × 30 sek i loppfart med 1 min lugnt emellan.",
+        "Kolla skidor, valla, nummerlapp, kläder och mat för morgondagen."
+      ],
+      "strength": null,
+      "tips": [
+        "Pulszonerna i klockan duger gott. Lugnt betyder att du kan prata i hela meningar."
+      ]
+    },
+    {
+      "id": "2027-03-01",
+      "date": "2027-03-01",
+      "sport": "race",
+      "title": "Öppet Spår måndag 90",
+      "durationMin": 0,
+      "intensity": "Din dag",
+      "race": true,
+      "phase": 6,
+      "steps": [
+        "Start i Berga by, Sälen. Startfållorna öppnar 06.00 och startleden går var tionde minut från 07.00. Ditt led avgör din starttid.",
+        "Börja lugnare än du tror. Den första backen är lång och det är 90 km kvar.",
+        "Ät och drick vid varje kontroll, även när du inte känner dig hungrig.",
+        "Reptider (sista passering): Smågan 10.30, Mångsbodarna 12.15, Risberg 13.45, Evertsberg 15.00, Oxberg 16.30, Hökberg 17.40, Eldris 19.00.",
+        "Boka Vasaloppsbussen när bokningen öppnar i slutet av november.",
+        "Njut av sista biten in mot Mora och kyrktornet."
+      ],
+      "strength": null
+    }
+  ]
+}
