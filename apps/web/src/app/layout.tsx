@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { Barlow, Barlow_Condensed } from 'next/font/google';
+import { Analytics } from '@vercel/analytics/react';
 import './globals.css';
 
 const barlow = Barlow({ subsets: ['latin'], weight: ['400', '500', '600'], variable: '--font-body' });
@@ -13,7 +14,10 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="sv">
-      <body className={`${barlow.variable} ${barlowCondensed.variable}`}>{children}</body>
+      <body className={`${barlow.variable} ${barlowCondensed.variable}`}>
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
