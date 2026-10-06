@@ -9,3 +9,6 @@ prod-up:
 
 prod-down:
 	docker compose -f docker-compose-prod.yml down
+
+push-prod-to-local-db:
+	./scripts/push-prod-to-local-db.sh

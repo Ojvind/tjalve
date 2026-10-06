@@ -47,6 +47,11 @@ Two seed plans already exist, generated from the two source files you gave me:
 Re-run either `build:*` script and re-run `seed-plan` any time a plan changes
 — it's an upsert keyed on `(userId, slug)`, so it's safe to repeat.
 
+Alternatively to seeding by hand: `make push-prod-to-local-db` makes an exact copy of
+production's MongoDB into the local dev database (replaces everything local). Requires SSH
+access to the server (see `scripts/push-prod-to-local-db.sh`); set `SSH_HOST`/`SSH_KEY` in the
+repo root's `.env` once.
+
 To add a new plan (e.g. the Ironman block after Mora), it doesn't need a new
 data model — just a new seeded plan document for the same user, with its own
 `slug`, `title` and `goal` and sessions whose `sport` matches what's being
