@@ -3,6 +3,9 @@
 Multi-user training-plan tracker. Each user has their own login, plan and
 progress; nobody can see anyone else's.
 
+Live at [tjalve.otterbjork.se](https://tjalve.otterbjork.se), API at
+`api.tjalve.otterbjork.se`.
+
 ## Stack
 
 - `apps/api` — Fastify + TypeScript, native `mongodb` driver, bcrypt + JWT auth.
